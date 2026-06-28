@@ -6,7 +6,7 @@
 
 An **8-Week Hands-on Learning Repository** designed to strengthen Data Engineering fundamentals through practical assignments, coding exercises, and real-world concepts.
 
-**Celebal Technologies Externship Internship (CEI) 2026**
+**Celebal Technologies  Internship (CEI) 2026**
 
 👨‍💻 **PRANAV DEOKAR**
 🎓 *Computer Engineering Student*
