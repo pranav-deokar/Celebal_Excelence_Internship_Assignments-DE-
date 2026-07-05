@@ -81,18 +81,14 @@ data-engineering-assignments/
 │
 ├── README.md
 │
-├── Assignment-01/
-│   ├── analysis1.ipynb
-│   ├── README.md
-│   └── data/
-│
-├── Assignment-02/
-├── Assignment-03/
-├── Assignment-04/
-├── Assignment-05/
-├── Assignment-06/
-├── Assignment-07/
-└── Assignment-08/
+├── WEEK_1_DE/
+├── WEEK_2_DE/
+├── WEEK_3_DE/
+├── WEEK_4_DE/
+├── WEEK_5_DE/
+├── WEEK_6_DE/
+├── WEEK_7_DE/
+└── WEEK_8_DE/
 ```
 
 ---
