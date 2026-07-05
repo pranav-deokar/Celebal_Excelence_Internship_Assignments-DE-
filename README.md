@@ -4,12 +4,12 @@
 
 ### **Python • SQL • Apache Spark • Databricks • Data Engineering**
 
-An **8-Week Hands-on Learning Repository** designed to strengthen Data Engineering fundamentals through practical assignments, coding exercises, and real-world concepts.
+An **8-Week Hands-on Learning Repository** documenting my learning journey through practical assignments, coding exercises, and real-world Data Engineering concepts.
 
-**Celebal Technologies  Internship (CEI) 2026**
+**Celebal Technologies Summer Internship 2026**
 
-👨‍💻 **PRANAV DEOKAR**
-🎓 *Computer Engineering Student*
+👨‍💻 **PRANAV DEOKAR**  
+🎓 *B.Tech Computer Science Engineering (AI & ML)*  
 📍 *Aspiring Data Engineer*
 
 </div>
@@ -18,66 +18,53 @@ An **8-Week Hands-on Learning Repository** designed to strengthen Data Engineeri
 
 # 📖 Overview
 
-Welcome to my **Data Engineering Weekly Assignments** repository!
+Welcome to my **Data Engineering Weekly Assignments** repository.
 
-This repository documents my learning journey throughout the **8-week Data Engineering Externship Program** at **Celebal Technologies**. Each week's assignment focuses on developing practical skills in data processing, programming, and modern Data Engineering tools.
+This repository contains all assignments completed during my **8-week Data Engineering Internship** at **Celebal Technologies**. Each week focuses on a different aspect of Data Engineering, gradually building practical knowledge through hands-on implementation.
 
-The objective of this repository is to showcase my:
+The repository currently includes assignments on:
 
-* Learning progress
-* Weekly assignments
-* Practical implementations
-* Hands-on experience with Data Engineering technologies
-* Continuous improvement throughout the internship
+- Python Fundamentals
+- SQL Fundamentals
+- Advanced SQL using Subqueries, CTEs, and Window Functions
 
-The journey starts with **Python fundamentals** and gradually progresses into advanced Data Engineering topics, including:
-
-* Python Programming
-* SQL
-* Subqueries & Advanced SQL
-* Data Engineering Fundamentals
-* Data Cleaning & Preprocessing
-* Apache Spark
-* Databricks
-* Data Pipeline Design
-
-This repository will be updated every week as new assignments are completed.
+The remaining weeks will be updated as the internship progresses.
 
 ---
 
 # 🛠️ Tech Stack
 
-| Category                   | Technologies     |
-| :------------------------- | :--------------- |
-| 💻 Programming Language    | Python           |
-| 🗄️ Database               | SQL              |
-| 📊 Data Analysis           | Pandas, NumPy    |
-| ⚡ Big Data Processing      | Apache Spark     |
-| ☁️ Cloud Platform          | Databricks       |
-| 📓 Development Environment | Jupyter Notebook |
-| 🔧 Version Control         | Git & GitHub     |
+| Category | Technologies |
+| :-------- | :----------- |
+| 💻 Programming Language | Python |
+| 🗄️ Database | MySQL |
+| 📊 Data Analysis | Pandas, NumPy |
+| ⚡ Big Data Processing | Apache Spark |
+| ☁️ Cloud Platform | Databricks |
+| 📓 Development Environment | Jupyter Notebook, MySQL Workbench |
+| 🔧 Version Control | Git & GitHub |
 
 ---
 
 # 📅 Weekly Roadmap
 
-|  Week  | Module                        |    Status   |
-| :----: | :---------------------------- | :---------: |
-| Week 1 | Python Fundamentals           | ✅ Completed |
-| Week 2 | SQL Fundamentals              | ✅ Completed |
-| Week 3 | Advanced SQL & Subqueries     | ✅ Completed |
-| Week 4 | Data Engineering Concepts     |  🔒 Pending |
-| Week 5 | Data Cleaning & Preprocessing |  🔒 Pending |
-| Week 6 | Apache Spark Basics           |  🔒 Pending |
-| Week 7 | Databricks Platform           |  🔒 Pending |
-| Week 8 | Data Pipeline Planning        |  🔒 Pending |
+| Week | Module | Status |
+| :--: | :------------------------------ | :----------: |
+| Week 1 | Python Fundamentals | ✅ Completed |
+| Week 2 | SQL Fundamentals | ✅ Completed |
+| Week 3 | Advanced SQL & Subqueries | ✅ Completed |
+| Week 4 | Data Engineering Concepts | 🔒 Pending |
+| Week 5 | Data Cleaning & Preprocessing | 🔒 Pending |
+| Week 6 | Apache Spark Basics | 🔒 Pending |
+| Week 7 | Databricks Platform | 🔒 Pending |
+| Week 8 | Data Pipeline Planning | 🔒 Pending |
 
 ---
 
 # 📁 Repository Structure
 
 ```text
-data-engineering-assignments/
+Data-Engineering-Assignments/
 │
 ├── README.md
 │
@@ -97,25 +84,82 @@ data-engineering-assignments/
 
 ## 🐍 Python Fundamentals & Exploratory Data Analysis (EDA)
 
-The first assignment focuses on strengthening Python programming skills while introducing the fundamentals of **Exploratory Data Analysis (EDA)** using a shopping dataset.
+The first assignment focused on strengthening Python programming skills while introducing the basics of Exploratory Data Analysis (EDA) using a shopping dataset.
 
-It covers the complete workflow—from loading and cleaning data to analyzing patterns and visualizing insights.
+### Topics Covered
+
+- Python Basics
+- Variables and Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Reading CSV Files
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Data Visualization
 
 ---
 
-## 📚 Topics Covered
+# 📌 Week 2 — Assignment 02
 
-| Topic                  | Description                                        |
-| :--------------------- | :------------------------------------------------- |
-| 🐍 Python Fundamentals | Variables, Data Types, Operators, Loops, Functions |
-| 📂 Data Import         | Reading CSV files using Pandas                     |
-| 🔍 Data Exploration    | `head()`, `tail()`, `info()`, `describe()`         |
-| 🧹 Data Cleaning       | Missing Values, Duplicates, Formatting             |
-| ⚙️ Feature Engineering | Creating New Features from Existing Data           |
-| 📊 Univariate Analysis | Statistical Analysis of Individual Variables       |
-| 🔗 Bivariate Analysis  | Exploring Relationships Between Variables          |
-| 🏷️ Category Analysis  | Group-wise Aggregation and Insights                |
-| 📈 Data Visualization  | Histograms, Boxplots, Scatterplots & Bar Charts    |
+## 🗄️ SQL Fundamentals
+
+The second assignment focused on building a strong foundation in SQL by working with the Superstore dataset using MySQL.
+
+### Topics Covered
+
+- Database Creation
+- Table Creation
+- Constraints
+- Primary Keys
+- SELECT Statements
+- WHERE Clause
+- ORDER BY
+- GROUP BY
+- HAVING
+- Aggregate Functions
+- INSERT
+- UPDATE
+- DELETE
+- SQL Filtering Techniques
+
+---
+
+# 📌 Week 3 — Assignment 03
+
+## 📊 Advanced SQL Analysis
+
+The third assignment focused on performing sales analysis on the Superstore dataset using advanced SQL concepts.
+
+The dataset was imported into MySQL and organized into separate tables before executing analytical SQL queries.
+
+### Topics Covered
+
+- Data Import
+- SELECT DISTINCT
+- Subqueries
+- Correlated Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+- ROW_NUMBER()
+- RANK()
+- PARTITION BY
+- JOIN Operations
+- Sales Analysis
+- Customer Ranking
+- Customer Sales Insights
+
+### Tasks Performed
+
+- Imported the Superstore dataset into MySQL.
+- Created `customers`, `orders`, and `products` tables.
+- Inserted data using `SELECT DISTINCT`.
+- Performed sales analysis using Subqueries.
+- Used CTEs to calculate customer sales.
+- Ranked customers using Window Functions.
+- Generated customer sales insights through SQL queries.
 
 ---
 
@@ -123,14 +167,15 @@ It covers the complete workflow—from loading and cleaning data to analyzing pa
 
 Throughout this internship, I aim to:
 
-* ✅ Build a strong foundation in Python programming
-* ✅ Master SQL querying techniques
-* ✅ Understand core Data Engineering concepts
-* ✅ Perform effective data cleaning and preprocessing
-* ✅ Learn Apache Spark for large-scale data processing
-* ✅ Gain practical experience with Databricks
-* ✅ Understand ETL and Data Pipeline workflows
-* ✅ Develop end-to-end Data Engineering solutions
+- ✅ Strengthen Python programming skills
+- ✅ Build a strong SQL foundation
+- ✅ Learn advanced SQL querying techniques
+- ✅ Understand Data Engineering concepts
+- ✅ Perform efficient data cleaning and preprocessing
+- ✅ Learn Apache Spark
+- ✅ Gain hands-on experience with Databricks
+- ✅ Understand ETL workflows and Data Pipelines
+- ✅ Develop practical Data Engineering solutions
 
 ---
 
@@ -138,37 +183,42 @@ Throughout this internship, I aim to:
 
 ```text
 ✅ Week 1 Completed
+✅ Week 2 Completed
+✅ Week 3 Completed
 
 🔜 Next Milestone:
-Assignment 02 — SQL Fundamentals
+Week 4 – Data Engineering Concepts
 ```
 
 ---
 
 # 📌 Upcoming Topics
 
-The upcoming assignments will cover several important Data Engineering concepts, including:
+The remaining weeks of the internship will cover:
 
-* SQL Query Optimization
-* Joins & Advanced SQL
-* Nested Queries & Subqueries
-* ETL Process Design
-* Data Pipeline Architecture
-* Apache Spark Transformations & Actions
-* Databricks Workflows
-* Real-world Data Engineering Practices
+- Data Engineering Fundamentals
+- Data Warehousing
+- Data Cleaning & Preprocessing
+- ETL Process Design
+- Apache Spark
+- Spark Transformations & Actions
+- Databricks
+- Data Pipeline Architecture
+- Real-world Data Engineering Workflows
 
 ---
 
 # 👨‍💻 About Me
 
-**PRANAV DEOKAR**
+**Pranav Deokar**
 
-🎓 Computer Engineering Student
+🎓 B.Tech Computer Science Engineering (AI & ML)
 
-💡 Passionate about Data Engineering, Data Analytics, and Cloud Technologies.
+🏫 Sanjivani College of Engineering
 
-🌱 Currently building practical skills through hands-on projects and industry-focused assignments.
+💡 Passionate about Data Engineering, Artificial Intelligence, Machine Learning, and Cloud Technologies.
+
+🌱 Continuously improving my technical skills through hands-on projects, internships, and real-world problem solving.
 
 ---
 
@@ -176,8 +226,6 @@ The upcoming assignments will cover several important Data Engineering concepts,
 
 ### ⭐ Thank you for visiting this repository!
 
-This repository will continue to grow as I complete each week's assignments during my Data Engineering learning journey.
-
-If you find this repository helpful, feel free to **⭐ Star** it and follow my progress.
+This repository will continue to be updated as I complete each week's assignment during the internship.
 
 </div>
