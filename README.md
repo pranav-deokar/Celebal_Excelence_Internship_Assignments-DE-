@@ -1,6 +1,7 @@
 
 
 <div align="center">
+  
 # ⚙️ Data Engineering Weekly Assignments
 
 ### **Python • SQL • Apache Spark • Databricks • Data Engineering**
