@@ -65,7 +65,7 @@ This repository will be updated every week as new assignments are completed.
 | :----: | :---------------------------- | :---------: |
 | Week 1 | Python Fundamentals           | ✅ Completed |
 | Week 2 | SQL Fundamentals              | ✅ Completed |
-| Week 3 | Advanced SQL & Subqueries     |  🔒 Pending |
+| Week 3 | Advanced SQL & Subqueries     | ✅ Completed |
 | Week 4 | Data Engineering Concepts     |  🔒 Pending |
 | Week 5 | Data Cleaning & Preprocessing |  🔒 Pending |
 | Week 6 | Apache Spark Basics           |  🔒 Pending |
