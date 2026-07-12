@@ -29,9 +29,9 @@ The repository currently includes assignments on:
 - Python Fundamentals
 - SQL Fundamentals
 - Advanced SQL using Subqueries, CTEs, and Window Functions
+- Azure Cloud Fundamentals and Data Pipeline Implementation using Azure Data Factory
 
 The remaining weeks will be updated as the internship progresses.
-
 ---
 
 # 🛠️ Tech Stack
@@ -41,9 +41,11 @@ The remaining weeks will be updated as the internship progresses.
 | 💻 Programming Language | Python |
 | 🗄️ Database | MySQL |
 | 📊 Data Analysis | Pandas, NumPy |
+| ☁️ Cloud Platform | Microsoft Azure |
+| ☁️ Azure Services | Azure Data Factory, Azure Blob Storage, Azure Resource Groups, Azure IAM |
 | ⚡ Big Data Processing | Apache Spark |
-| ☁️ Cloud Platform | Databricks |
-| 📓 Development Environment | Jupyter Notebook, MySQL Workbench |
+| ☁️ Analytics Platform | Databricks |
+| 📓 Development Environment | Jupyter Notebook, MySQL Workbench, Azure Portal |
 | 🔧 Version Control | Git & GitHub |
 
 ---
@@ -55,7 +57,7 @@ The remaining weeks will be updated as the internship progresses.
 | Week 1 | Python Fundamentals | ✅ Completed |
 | Week 2 | SQL Fundamentals | ✅ Completed |
 | Week 3 | Advanced SQL & Subqueries | ✅ Completed |
-| Week 4 | Data Engineering Concepts | 🔒 Pending |
+| Week 4 | Data Engineering Concepts | ✅ Completed |
 | Week 5 | Data Cleaning & Preprocessing | 🔒 Pending |
 | Week 6 | Apache Spark Basics | 🔒 Pending |
 | Week 7 | Databricks Platform | 🔒 Pending |
@@ -165,6 +167,46 @@ The dataset was imported into MySQL and organized into separate tables before ex
 
 ---
 
+
+# 📌 Week 4 — Assignment 04
+
+## ☁️ Azure Cloud Fundamentals & Data Pipeline Implementation
+
+The fourth assignment focused on understanding Microsoft Azure Cloud services and implementing a complete data pipeline using Azure Blob Storage and Azure Data Factory (ADF).
+
+The project involved creating Azure resources, configuring storage, connecting Azure Data Factory to Blob Storage, validating file metadata, copying data between containers, and configuring IAM roles.
+
+### Topics Covered
+
+- Azure Portal
+- Resource Groups
+- Azure Storage Account
+- Azure Blob Storage
+- Azure Data Factory (ADF)
+- Linked Services
+- Source & Destination Datasets
+- Get Metadata Activity
+- Copy Data Activity
+- Pipeline Execution
+- Azure IAM
+- Managed Identity
+
+### Tasks Performed
+
+- Created a Resource Group.
+- Created an Azure Storage Account.
+- Created Blob Storage containers.
+- Uploaded the Sample Superstore dataset.
+- Created Azure Data Factory.
+- Configured Linked Service.
+- Created Source and Destination datasets.
+- Built an Azure Data Factory pipeline.
+- Retrieved file metadata using Get Metadata.
+- Copied data from the input container to the output container.
+- Successfully executed the pipeline.
+- Assigned Reader and Contributor roles to Azure Data Factory.
+---
+  
 # 🎯 Learning Objectives
 
 Throughout this internship, I aim to:
@@ -187,18 +229,17 @@ Throughout this internship, I aim to:
 ✅ Week 1 Completed
 ✅ Week 2 Completed
 ✅ Week 3 Completed
+✅ Week 4 Completed
 
 🔜 Next Milestone:
-Week 4 – Data Engineering Concepts
+Week 5 – Data Cleaning & Preprocessing
 ```
-
 ---
 
 # 📌 Upcoming Topics
 
 The remaining weeks of the internship will cover:
 
-- Data Engineering Fundamentals
 - Data Warehousing
 - Data Cleaning & Preprocessing
 - ETL Process Design
