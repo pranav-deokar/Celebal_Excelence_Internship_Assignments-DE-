@@ -30,9 +30,11 @@ The repository currently includes assignments on:
 - SQL Fundamentals
 - Advanced SQL using Subqueries, CTEs, and Window Functions
 - Azure Cloud Fundamentals and Data Pipeline Implementation using Azure Data Factory
+- Apache Spark Fundamentals
+- Spark DataFrame Operations
+- Data Cleaning & Preprocessing using PySpark
 
 The remaining weeks will be updated as the internship progresses.
----
 
 # 🛠️ Tech Stack
 
@@ -58,7 +60,7 @@ The remaining weeks will be updated as the internship progresses.
 | Week 2 | SQL Fundamentals | ✅ Completed |
 | Week 3 | Advanced SQL & Subqueries | ✅ Completed |
 | Week 4 | Data Engineering Concepts | ✅ Completed |
-| Week 5 | Data Cleaning & Preprocessing | 🔒 Pending |
+| Week 5 | Data Cleaning & Preprocessing |  ✅ Completed |
 | Week 6 | Apache Spark Basics | 🔒 Pending |
 | Week 7 | Databricks Platform | 🔒 Pending |
 | Week 8 | Data Pipeline Planning | 🔒 Pending |
@@ -206,6 +208,45 @@ The project involved creating Azure resources, configuring storage, connecting A
 - Successfully executed the pipeline.
 - Assigned Reader and Contributor roles to Azure Data Factory.
 ---
+
+# 📌 Week 5 — Assignment 05
+
+## ⚡ Apache Spark Data Cleaning & DataFrame Operations
+
+The fifth assignment focused on learning Apache Spark fundamentals and performing data cleaning, transformations, filtering, aggregation, and preprocessing using the PySpark DataFrame API.
+
+The assignment also covered Spark architecture concepts such as In-Memory Computing, Shuffle Operations, DataFrame immutability, and comparisons between Apache Spark and Hadoop MapReduce.
+
+### Topics Covered
+
+- Apache Spark Fundamentals
+- Spark vs MapReduce
+- In-Memory Computing
+- Spark DataFrames
+- Data Cleaning
+- Handling Duplicate Records
+- Handling Missing Values
+- Filtering DataFrames
+- GroupBy Operations
+- Aggregations
+- Timestamp Casting
+- Column Renaming
+- Shuffle Operations
+- Narrow & Wide Transformations
+- ETL Pipeline using Spark DataFrames
+
+### Tasks Performed
+
+- Compared Apache Spark with Hadoop MapReduce.
+- Implemented duplicate record removal.
+- Cleaned datasets by handling null values.
+- Filtered DataFrames using multiple conditions.
+- Performed grouping and aggregation operations.
+- Calculated summary statistics using `.agg()`.
+- Converted string timestamps into `TimestampType`.
+- Renamed and dropped DataFrame columns.
+- Built a simple ETL pipeline using Spark DataFrames.
+- Learned Spark's in-memory processing architecture.
   
 # 🎯 Learning Objectives
 
@@ -225,27 +266,25 @@ Throughout this internship, I aim to:
 
 # 🚀 Current Progress
 
-```text
 ✅ Week 1 Completed
 ✅ Week 2 Completed
 ✅ Week 3 Completed
 ✅ Week 4 Completed
+✅ Week 5 Completed
 
 🔜 Next Milestone:
-Week 5 – Data Cleaning & Preprocessing
-```
+Week 6 – Apache Spark Advanced Concepts
 ---
 
 # 📌 Upcoming Topics
 
 The remaining weeks of the internship will cover:
 
-- Data Warehousing
-- Data Cleaning & Preprocessing
-- ETL Process Design
-- Apache Spark
-- Spark Transformations & Actions
+- Advanced Apache Spark
+- Spark SQL
 - Databricks
+- ETL Process Design
+- Performance Optimization
 - Data Pipeline Architecture
 - Real-world Data Engineering Workflows
 
