@@ -1,0 +1,11 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,CA-2016-152156,08-11-2016,11-11-2016,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,42420,South,FUR-BO-10001798,Furniture,Bookcases,Bookcase Updated,300,2,0,50
+2,CA-2016-152156,08-11-2016,11-11-2016,Second Class,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,42420,South,FUR-CH-10000454,Furniture,Chairs,Chair Updated,800,3,0,120
+9995,CA-2026-000001,01-08-2026,03-08-2026,Standard Class,AA-11111,John Smith,Consumer,United States,Dallas,Texas,75001,Central,OFF-PA-10000001,Office Supplies,Paper,Premium Paper,25,5,0,10
+9996,CA-2026-000002,01-08-2026,03-08-2026,Standard Class,BB-22222,Alice Brown,Corporate,United States,Chicago,Illinois,60007,Central,OFF-ST-10000002,Office Supplies,Storage,Plastic Box,60,2,0,20
+9997,CA-2026-000003,01-08-2026,03-08-2026,Standard Class,CC-33333,Bob White,Consumer,United States,Seattle,Washington,98101,West,TEC-PH-10000003,Technology,Phones,Smart Phone,700,1,0,180
+9998,CA-2026-000004,01-08-2026,03-08-2026,Standard Class,DD-44444,David Green,Home Office,United States,Miami,Florida,33101,South,OFF-BI-10000004,Office Supplies,Binders,Binder,15,3,0,5
+9999,CA-2026-000005,01-08-2026,03-08-2026,Standard Class,EE-55555,Emily Davis,Consumer,United States,Phoenix,Arizona,85001,West,FUR-TA-10000005,Furniture,Tables,Study Table,250,1,0,45
+10000,CA-2026-000006,01-08-2026,03-08-2026,Standard Class,FF-66666,Kevin Lee,Corporate,United States,Boston,Massachusetts,2108,East,TEC-AC-10000006,Technology,Accessories,Wireless Mouse,40,2,0,12
+10001,CA-2026-000007,01-08-2026,03-08-2026,Standard Class,GG-77777,Nancy Hall,Consumer,United States,Denver,Colorado,80014,West,OFF-AR-10000007,Office Supplies,Art,Sketch Book,18,4,0,6
+10002,CA-2026-000008,01-08-2026,03-08-2026,Standard Class,HH-88888,Chris Wood,Corporate,United States,Atlanta,Georgia,30301,South,TEC-MA-10000008,Technology,Machines,Printer,450,1,0,90
