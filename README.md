@@ -24,15 +24,15 @@ Welcome to my **Data Engineering Weekly Assignments** repository.
 
 This repository contains all assignments completed during my **8-week Data Engineering Internship** at **Celebal Technologies**. Each week focuses on a different aspect of Data Engineering, gradually building practical knowledge through hands-on implementation.
 
-The repository currently includes assignments on:
+The repository currently includes assignments covering:
 
 - Python Fundamentals
 - SQL Fundamentals
 - Advanced SQL using Subqueries, CTEs, and Window Functions
-- Azure Cloud Fundamentals and Data Pipeline Implementation using Azure Data Factory
+- Azure Cloud Fundamentals and Data Pipeline Implementation
+- Apache Spark Data Cleaning & DataFrame Operations
 - Apache Spark Fundamentals
-- Spark DataFrame Operations
-- Data Cleaning & Preprocessing using PySpark
+- Delta Lake MERGE Operations using PySpark
 
 The remaining weeks will be updated as the internship progresses.
 
@@ -55,14 +55,14 @@ The remaining weeks will be updated as the internship progresses.
 # 📅 Weekly Roadmap
 
 | Week | Module | Status |
-| :--: | :------------------------------ | :----------: |
+| :--: | :-------------------------------------------- | :----------: |
 | Week 1 | Python Fundamentals | ✅ Completed |
 | Week 2 | SQL Fundamentals | ✅ Completed |
 | Week 3 | Advanced SQL & Subqueries | ✅ Completed |
-| Week 4 | Data Engineering Concepts | ✅ Completed |
-| Week 5 | Data Cleaning & Preprocessing |  ✅ Completed |
-| Week 6 | Apache Spark Basics | 🔒 Pending |
-| Week 7 | Databricks Platform | 🔒 Pending |
+| Week 4 | Azure Data Factory Pipeline | ✅ Completed |
+| Week 5 | Spark Data Cleaning & DataFrame Operations | ✅ Completed |
+| Week 6 | Apache Spark Fundamentals | ✅ Completed |
+| Week 7 | Delta Lake MERGE Implementation | ✅ Completed |
 | Week 8 | Data Pipeline Planning | 🔒 Pending |
 
 ---
@@ -247,7 +247,72 @@ The assignment also covered Spark architecture concepts such as In-Memory Comput
 - Renamed and dropped DataFrame columns.
 - Built a simple ETL pipeline using Spark DataFrames.
 - Learned Spark's in-memory processing architecture.
-  
+
+
+  # 📌 Week 6 — Assignment 06
+
+## ⚡ Apache Spark Fundamentals
+
+The sixth assignment focused on understanding the core architecture and programming model of Apache Spark using PySpark. The implementation covered DataFrame creation, transformations, actions, and Spark's execution model.
+
+### Topics Covered
+
+- Apache Spark Architecture
+- Spark Driver and Executors
+- Cluster Manager
+- RDDs and DataFrames
+- Transformations
+- Actions
+- Lazy Evaluation
+- Spark SQL
+- CSV Data Loading
+- DataFrame Operations
+
+### Tasks Performed
+
+- Created Spark Session.
+- Loaded CSV datasets into Spark DataFrames.
+- Performed DataFrame transformations.
+- Applied filtering and aggregation.
+- Executed Spark actions.
+- Explored Spark's lazy evaluation mechanism.
+- Practiced Spark SQL operations.
+
+# 📌 Week 7 — Assignment 07
+
+## 🗂️ Delta Lake MERGE Implementation
+
+The seventh assignment focused on implementing incremental data processing using **Delta Lake** with **Apache Spark (PySpark)**. The project demonstrates how Delta Lake supports ACID transactions and efficient UPSERT operations using the MERGE command.
+
+### Topics Covered
+
+- Delta Lake
+- Delta Tables
+- Incremental Data Processing
+- Data Cleaning
+- Removing Duplicate Records
+- Handling Missing Values
+- MERGE (UPSERT)
+- Update Existing Records
+- Insert New Records
+- Data Validation
+
+### Tasks Performed
+
+- Loaded the customer master dataset into Spark.
+- Cleaned the dataset by removing duplicates and handling null values.
+- Converted the dataset into a Delta Table.
+- Created an incremental dataset containing updated and new records.
+- Performed Delta Lake MERGE operations.
+- Updated matching records.
+- Inserted new records.
+- Validated the final dataset using row counts and duplicate checks.
+- Displayed the final merged dataset and summary.
+
+
+
+
+
 # 🎯 Learning Objectives
 
 Throughout this internship, I aim to:
@@ -261,6 +326,7 @@ Throughout this internship, I aim to:
 - ✅ Gain hands-on experience with Databricks
 - ✅ Understand ETL workflows and Data Pipelines
 - ✅ Develop practical Data Engineering solutions
+- ✅ Learn Delta Lake and ACID Transactions
 
 ---
 
@@ -271,21 +337,20 @@ Throughout this internship, I aim to:
 ✅ Week 3 Completed
 ✅ Week 4 Completed
 ✅ Week 5 Completed
+✅ Week 6 Completed
+✅ Week 7 Completed
 
 🔜 Next Milestone:
-Week 6 – Apache Spark Advanced Concepts
----
+Week 8 – Data Pipeline Planning
 
 # 📌 Upcoming Topics
 
 The remaining weeks of the internship will cover:
 
-- Advanced Apache Spark
-- Spark SQL
-- Databricks
 - ETL Process Design
 - Performance Optimization
 - Data Pipeline Architecture
+- Workflow Orchestration
 - Real-world Data Engineering Workflows
 
 ---
