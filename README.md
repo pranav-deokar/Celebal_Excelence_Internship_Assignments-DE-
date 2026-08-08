@@ -63,7 +63,7 @@ The remaining weeks will be updated as the internship progresses.
 | Week 5 | Spark Data Cleaning & DataFrame Operations | ✅ Completed |
 | Week 6 | Apache Spark Fundamentals | ✅ Completed |
 | Week 7 | Delta Lake MERGE Implementation | ✅ Completed |
-| Week 8 | Data Pipeline Planning | 🔒 Pending |
+| Week 8 | E-Commerce Order Analytics | ✅ Completed |
 
 ---
 
@@ -309,6 +309,46 @@ The seventh assignment focused on implementing incremental data processing using
 - Validated the final dataset using row counts and duplicate checks.
 - Displayed the final merged dataset and summary.
 
+# 📌 Week 8 — Assignment 08
+
+## 🛒 E-Commerce Order Analytics System
+
+The eighth assignment focused on building a complete local data processing and analytics workflow using **Python and SQL**.
+
+The project simulated an e-commerce environment by generating interconnected customer, product, order, and order-item datasets containing intentional data-quality issues.
+
+### Topics Covered
+
+- Data Generation
+- Data Cleaning & Validation
+- CSV Data Processing
+- SQLite Database
+- SQL Analytics
+- Common Table Expressions (CTEs)
+- Window Functions
+- Customer Segmentation
+- Cohort Analysis
+- Year-over-Year Analysis
+- Python + SQL Integration
+- Edge Case Testing
+- Product Pair Analysis
+
+### Tasks Performed
+
+- Generated realistic e-commerce datasets using Python.
+- Introduced intentional data-quality issues into the datasets.
+- Cleaned and validated the generated data.
+- Checked referential integrity between orders and order items.
+- Loaded cleaned data into a SQLite database.
+- Performed basic, intermediate, and advanced SQL analysis.
+- Implemented running totals, ranking, `LAG/LEAD`, `NTILE`, CTEs, and window functions.
+- Performed customer lifetime-value segmentation and cohort analysis.
+- Built a Python command-line reporting tool using SQLite.
+- Tested important data edge cases.
+- Identified products frequently purchased together.
+
+
+
 
 
 
@@ -332,28 +372,15 @@ Throughout this internship, I aim to:
 
 # 🚀 Current Progress
 
-✅ Week 1 Completed
-✅ Week 2 Completed
-✅ Week 3 Completed
-✅ Week 4 Completed
-✅ Week 5 Completed
-✅ Week 6 Completed
-✅ Week 7 Completed
+✅ Week 1 Completed  
+✅ Week 2 Completed  
+✅ Week 3 Completed  
+✅ Week 4 Completed  
+✅ Week 5 Completed  
+✅ Week 6 Completed  
+✅ Week 7 Completed  
+✅ Week 8 Completed
 
-🔜 Next Milestone:
-Week 8 – Data Pipeline Planning
-
-# 📌 Upcoming Topics
-
-The remaining weeks of the internship will cover:
-
-- ETL Process Design
-- Performance Optimization
-- Data Pipeline Architecture
-- Workflow Orchestration
-- Real-world Data Engineering Workflows
-
----
 
 # 👨‍💻 About Me
 
