@@ -1,0 +1,1889 @@
+product_a,product_b,times_bought_together
+Mechanical Keyboard,Artificial Intelligence,6
+Coffee Maker,Statistics Guide,5
+Mechanical Keyboard,Jacket,5
+Smart Watch,Mouse,5
+Smartphone,Socks,5
+Webcam,Statistics Guide,5
+Cap,Statistics Guide,4
+Casual Trousers,Machine Learning Basics,4
+Coffee Maker,Cloud Computing,4
+Coffee Maker,Python Programming,4
+Cookware Set,Vacuum Cleaner,4
+Denim Jeans,Sql Handbook,4
+Denim Jeans,Table Lamp,4
+Hoodie,Table Lamp,4
+Jacket,Casual Trousers,4
+Jacket,Office Chair,4
+Laptop,Laptop,4
+Laptop,Sneakers,4
+Laptop,Sneakers,4
+Mechanical Keyboard,Socks,4
+Mouse,Vacuum Cleaner,4
+Power Bank,Hoodie,4
+Running Shoes,Running Shoes,4
+Smartphone,Laptop,4
+Sneakers,Cushion Set,4
+Sql Handbook,Artificial Intelligence,4
+Storage Box,Clean Code,4
+Table Lamp,Python Programming,4
+Water Bottle,Machine Learning Basics,4
+Water Bottle,Statistics Guide,4
+Webcam,Water Bottle,4
+Wireless Headphones,Coffee Maker,4
+Wireless Headphones,Data Engineering,4
+Wireless Headphones,Running Shoes,4
+Artificial Intelligence,Database Systems,3
+Artificial Intelligence,Statistics Guide,3
+Backpack,Statistics Guide,3
+Backpack,Statistics Guide,3
+Bedsheet Set,Bedsheet Set,3
+Bedsheet Set,Cloud Computing,3
+Bedsheet Set,Database Systems,3
+Bedsheet Set,Python Programming,3
+Bluetooth Speaker,Clean Code,3
+Bluetooth Speaker,Coffee Maker,3
+Bluetooth Speaker,Sneakers,3
+Bluetooth Speaker,Table Lamp,3
+Cap,Coffee Maker,3
+Cap,Sql Handbook,3
+Cap,Storage Box,3
+Cap,Vacuum Cleaner,3
+Cap,Water Bottle,3
+Casual Trousers,Cap,3
+Casual Trousers,Python Programming,3
+Clean Code,Database Systems,3
+Clean Code,Database Systems,3
+Cloud Computing,Clean Code,3
+Coffee Maker,Bedsheet Set,3
+Coffee Maker,Cloud Computing,3
+Coffee Maker,Machine Learning Basics,3
+Coffee Maker,Office Chair,3
+Cookware Set,Artificial Intelligence,3
+Cookware Set,Cushion Set,3
+Cookware Set,Database Systems,3
+Cookware Set,Sql Handbook,3
+Cookware Set,Vacuum Cleaner,3
+Cotton Shirt,Coffee Maker,3
+Cotton Shirt,Office Chair,3
+Cushion Set,Clean Code,3
+Cushion Set,Database Systems,3
+Cushion Set,Sql Handbook,3
+Data Engineering,Sql Handbook,3
+Denim Jeans,Artificial Intelligence,3
+Denim Jeans,Backpack,3
+Denim Jeans,Coffee Maker,3
+Denim Jeans,Coffee Maker,3
+Denim Jeans,Denim Jeans,3
+Denim Jeans,Office Chair,3
+Denim Jeans,Statistics Guide,3
+Denim Jeans,Storage Box,3
+Denim Jeans,Storage Box,3
+Hoodie,Coffee Maker,3
+Hoodie,Machine Learning Basics,3
+Hoodie,Socks,3
+Jacket,Backpack,3
+Jacket,Cloud Computing,3
+Jacket,Socks,3
+Jacket,Sql Handbook,3
+Laptop,Backpack,3
+Laptop,Bluetooth Speaker,3
+Laptop,Cap,3
+Laptop,Cap,3
+Laptop,Cloud Computing,3
+Laptop,Jacket,3
+Laptop,Running Shoes,3
+Laptop,Socks,3
+Laptop,Usb-C Cable,3
+Laptop,Wall Clock,3
+Laptop,Web Development,3
+Laptop,Webcam,3
+Laptop,Webcam,3
+Machine Learning Basics,Clean Code,3
+Mechanical Keyboard,Backpack,3
+Mechanical Keyboard,Cookware Set,3
+Mechanical Keyboard,Cotton Shirt,3
+Mechanical Keyboard,Jacket,3
+Mechanical Keyboard,Python Programming,3
+Mechanical Keyboard,Running Shoes,3
+Mechanical Keyboard,Webcam,3
+Mouse,Cap,3
+Mouse,Cloud Computing,3
+Mouse,Cloud Computing,3
+Mouse,Cookware Set,3
+Mouse,Database Systems,3
+Mouse,Jacket,3
+Mouse,Running Shoes,3
+Mouse,Sneakers,3
+Mouse,Sneakers,3
+Mouse,Storage Box,3
+Power Bank,Artificial Intelligence,3
+Power Bank,Casual Trousers,3
+Power Bank,Database Systems,3
+Power Bank,Denim Jeans,3
+Power Bank,Hoodie,3
+Power Bank,Mouse,3
+Power Bank,Python Programming,3
+Power Bank,Socks,3
+Python Programming,Data Engineering,3
+Python Programming,Statistics Guide,3
+Running Shoes,Bedsheet Set,3
+Running Shoes,Vacuum Cleaner,3
+Smart Watch,Coffee Maker,3
+Smart Watch,Cotton Shirt,3
+Smart Watch,Database Systems,3
+Smart Watch,Power Bank,3
+Smart Watch,Webcam,3
+Smartphone,Artificial Intelligence,3
+Smartphone,Casual Trousers,3
+Smartphone,Cloud Computing,3
+Smartphone,Cloud Computing,3
+Smartphone,Cotton Shirt,3
+Smartphone,Cushion Set,3
+Smartphone,Machine Learning Basics,3
+Smartphone,Mechanical Keyboard,3
+Smartphone,Sql Handbook,3
+Smartphone,Statistics Guide,3
+Smartphone,Table Lamp,3
+Smartphone,Vacuum Cleaner,3
+Smartphone,Web Development,3
+Sneakers,Bedsheet Set,3
+Sneakers,Bedsheet Set,3
+Sneakers,Cookware Set,3
+Sneakers,Python Programming,3
+Sneakers,Water Bottle,3
+Socks,Bedsheet Set,3
+Socks,Cookware Set,3
+Socks,Data Engineering,3
+Socks,Python Programming,3
+Socks,Storage Box,3
+Statistics Guide,Web Development,3
+Storage Box,Artificial Intelligence,3
+Storage Box,Machine Learning Basics,3
+Usb-C Cable,Cloud Computing,3
+Usb-C Cable,Hoodie,3
+Usb-C Cable,Power Bank,3
+Usb-C Cable,Power Bank,3
+Usb-C Cable,Running Shoes,3
+Vacuum Cleaner,Python Programming,3
+Wall Clock,Data Engineering,3
+Wall Clock,Machine Learning Basics,3
+Wall Clock,Python Programming,3
+Water Bottle,Clean Code,3
+Water Bottle,Cushion Set,3
+Water Bottle,Data Engineering,3
+Web Development,Database Systems,3
+Webcam,Cloud Computing,3
+Webcam,Data Engineering,3
+Webcam,Hoodie,3
+Webcam,Jacket,3
+Webcam,Machine Learning Basics,3
+Webcam,Vacuum Cleaner,3
+Webcam,Water Bottle,3
+Wireless Headphones,Backpack,3
+Wireless Headphones,Bedsheet Set,3
+Wireless Headphones,Bluetooth Speaker,3
+Wireless Headphones,Coffee Maker,3
+Wireless Headphones,Cotton Shirt,3
+Wireless Headphones,Denim Jeans,3
+Wireless Headphones,Hoodie,3
+Wireless Headphones,Laptop,3
+Wireless Headphones,Machine Learning Basics,3
+Wireless Headphones,Mechanical Keyboard,3
+Wireless Headphones,Mouse,3
+Wireless Headphones,Power Bank,3
+Wireless Headphones,Smartphone,3
+Wireless Headphones,Sql Handbook,3
+Wireless Headphones,Statistics Guide,3
+Wireless Headphones,Storage Box,3
+Wireless Headphones,Vacuum Cleaner,3
+Wireless Headphones,Wall Clock,3
+Artificial Intelligence,Statistics Guide,2
+Backpack,Clean Code,2
+Backpack,Coffee Maker,2
+Backpack,Coffee Maker,2
+Backpack,Coffee Maker,2
+Backpack,Cookware Set,2
+Backpack,Cushion Set,2
+Backpack,Cushion Set,2
+Backpack,Data Engineering,2
+Backpack,Office Chair,2
+Backpack,Office Chair,2
+Backpack,Socks,2
+Backpack,Statistics Guide,2
+Backpack,Storage Box,2
+Backpack,Table Lamp,2
+Backpack,Wall Clock,2
+Backpack,Web Development,2
+Bedsheet Set,Clean Code,2
+Bedsheet Set,Clean Code,2
+Bedsheet Set,Cookware Set,2
+Bedsheet Set,Cushion Set,2
+Bedsheet Set,Python Programming,2
+Bedsheet Set,Storage Box,2
+Bedsheet Set,Vacuum Cleaner,2
+Bedsheet Set,Water Bottle,2
+Bedsheet Set,Water Bottle,2
+Bedsheet Set,Water Bottle,2
+Bluetooth Speaker,Bluetooth Speaker,2
+Bluetooth Speaker,Cap,2
+Bluetooth Speaker,Clean Code,2
+Bluetooth Speaker,Cookware Set,2
+Bluetooth Speaker,Cotton Shirt,2
+Bluetooth Speaker,Cushion Set,2
+Bluetooth Speaker,Data Engineering,2
+Bluetooth Speaker,Jacket,2
+Bluetooth Speaker,Jacket,2
+Bluetooth Speaker,Machine Learning Basics,2
+Bluetooth Speaker,Power Bank,2
+Bluetooth Speaker,Python Programming,2
+Bluetooth Speaker,Sql Handbook,2
+Bluetooth Speaker,Sql Handbook,2
+Bluetooth Speaker,Statistics Guide,2
+Bluetooth Speaker,Statistics Guide,2
+Bluetooth Speaker,Storage Box,2
+Bluetooth Speaker,Table Lamp,2
+Bluetooth Speaker,Web Development,2
+Bluetooth Speaker,Webcam,2
+Cap,Artificial Intelligence,2
+Cap,Bedsheet Set,2
+Cap,Clean Code,2
+Cap,Cloud Computing,2
+Cap,Cloud Computing,2
+Cap,Coffee Maker,2
+Cap,Cookware Set,2
+Cap,Data Engineering,2
+Cap,Data Engineering,2
+Cap,Database Systems,2
+Cap,Machine Learning Basics,2
+Cap,Office Chair,2
+Cap,Sql Handbook,2
+Cap,Storage Box,2
+Cap,Table Lamp,2
+Casual Trousers,Artificial Intelligence,2
+Casual Trousers,Backpack,2
+Casual Trousers,Bedsheet Set,2
+Casual Trousers,Cap,2
+Casual Trousers,Clean Code,2
+Casual Trousers,Cloud Computing,2
+Casual Trousers,Cookware Set,2
+Casual Trousers,Cookware Set,2
+Casual Trousers,Machine Learning Basics,2
+Casual Trousers,Sneakers,2
+Casual Trousers,Sql Handbook,2
+Casual Trousers,Storage Box,2
+Casual Trousers,Wall Clock,2
+Casual Trousers,Water Bottle,2
+Casual Trousers,Water Bottle,2
+Clean Code,Database Systems,2
+Clean Code,Statistics Guide,2
+Cloud Computing,Database Systems,2
+Cloud Computing,Database Systems,2
+Cloud Computing,Web Development,2
+Cloud Computing,Web Development,2
+Coffee Maker,Artificial Intelligence,2
+Coffee Maker,Clean Code,2
+Coffee Maker,Coffee Maker,2
+Coffee Maker,Cushion Set,2
+Coffee Maker,Data Engineering,2
+Coffee Maker,Data Engineering,2
+Coffee Maker,Database Systems,2
+Coffee Maker,Machine Learning Basics,2
+Coffee Maker,Python Programming,2
+Coffee Maker,Sql Handbook,2
+Coffee Maker,Table Lamp,2
+Coffee Maker,Wall Clock,2
+Coffee Maker,Web Development,2
+Cookware Set,Clean Code,2
+Cookware Set,Cloud Computing,2
+Cookware Set,Cloud Computing,2
+Cookware Set,Cushion Set,2
+Cookware Set,Statistics Guide,2
+Cookware Set,Statistics Guide,2
+Cotton Shirt,Artificial Intelligence,2
+Cotton Shirt,Artificial Intelligence,2
+Cotton Shirt,Artificial Intelligence,2
+Cotton Shirt,Backpack,2
+Cotton Shirt,Clean Code,2
+Cotton Shirt,Cloud Computing,2
+Cotton Shirt,Cloud Computing,2
+Cotton Shirt,Cloud Computing,2
+Cotton Shirt,Cookware Set,2
+Cotton Shirt,Cookware Set,2
+Cotton Shirt,Cookware Set,2
+Cotton Shirt,Cotton Shirt,2
+Cotton Shirt,Cushion Set,2
+Cotton Shirt,Cushion Set,2
+Cotton Shirt,Database Systems,2
+Cotton Shirt,Hoodie,2
+Cotton Shirt,Hoodie,2
+Cotton Shirt,Jacket,2
+Cotton Shirt,Office Chair,2
+Cotton Shirt,Office Chair,2
+Cotton Shirt,Python Programming,2
+Cotton Shirt,Sql Handbook,2
+Cotton Shirt,Table Lamp,2
+Cotton Shirt,Table Lamp,2
+Cotton Shirt,Table Lamp,2
+Cotton Shirt,Vacuum Cleaner,2
+Cushion Set,Clean Code,2
+Cushion Set,Clean Code,2
+Cushion Set,Cloud Computing,2
+Cushion Set,Cloud Computing,2
+Cushion Set,Database Systems,2
+Cushion Set,Statistics Guide,2
+Cushion Set,Vacuum Cleaner,2
+Data Engineering,Clean Code,2
+Data Engineering,Data Engineering,2
+Data Engineering,Database Systems,2
+Data Engineering,Sql Handbook,2
+Data Engineering,Sql Handbook,2
+Data Engineering,Statistics Guide,2
+Denim Jeans,Artificial Intelligence,2
+Denim Jeans,Cap,2
+Denim Jeans,Cap,2
+Denim Jeans,Cap,2
+Denim Jeans,Casual Trousers,2
+Denim Jeans,Clean Code,2
+Denim Jeans,Clean Code,2
+Denim Jeans,Cloud Computing,2
+Denim Jeans,Cookware Set,2
+Denim Jeans,Database Systems,2
+Denim Jeans,Database Systems,2
+Denim Jeans,Jacket,2
+Denim Jeans,Machine Learning Basics,2
+Denim Jeans,Python Programming,2
+Denim Jeans,Running Shoes,2
+Denim Jeans,Sneakers,2
+Denim Jeans,Vacuum Cleaner,2
+Denim Jeans,Water Bottle,2
+Hoodie,Backpack,2
+Hoodie,Casual Trousers,2
+Hoodie,Clean Code,2
+Hoodie,Clean Code,2
+Hoodie,Coffee Maker,2
+Hoodie,Cookware Set,2
+Hoodie,Cushion Set,2
+Hoodie,Cushion Set,2
+Hoodie,Data Engineering,2
+Hoodie,Database Systems,2
+Hoodie,Hoodie,2
+Hoodie,Jacket,2
+Hoodie,Machine Learning Basics,2
+Hoodie,Machine Learning Basics,2
+Hoodie,Office Chair,2
+Hoodie,Office Chair,2
+Hoodie,Python Programming,2
+Hoodie,Sneakers,2
+Hoodie,Socks,2
+Hoodie,Statistics Guide,2
+Hoodie,Storage Box,2
+Hoodie,Wall Clock,2
+Hoodie,Water Bottle,2
+Hoodie,Web Development,2
+Hoodie,Web Development,2
+Hoodie,Web Development,2
+Jacket,Cap,2
+Jacket,Cloud Computing,2
+Jacket,Cushion Set,2
+Jacket,Machine Learning Basics,2
+Jacket,Machine Learning Basics,2
+Jacket,Python Programming,2
+Jacket,Python Programming,2
+Jacket,Sneakers,2
+Jacket,Sneakers,2
+Jacket,Socks,2
+Jacket,Statistics Guide,2
+Jacket,Storage Box,2
+Jacket,Storage Box,2
+Jacket,Storage Box,2
+Jacket,Wall Clock,2
+Jacket,Wall Clock,2
+Jacket,Water Bottle,2
+Laptop,Artificial Intelligence,2
+Laptop,Bedsheet Set,2
+Laptop,Bluetooth Speaker,2
+Laptop,Cap,2
+Laptop,Casual Trousers,2
+Laptop,Clean Code,2
+Laptop,Clean Code,2
+Laptop,Cloud Computing,2
+Laptop,Cloud Computing,2
+Laptop,Cookware Set,2
+Laptop,Cotton Shirt,2
+Laptop,Cushion Set,2
+Laptop,Hoodie,2
+Laptop,Hoodie,2
+Laptop,Jacket,2
+Laptop,Machine Learning Basics,2
+Laptop,Machine Learning Basics,2
+Laptop,Mouse,2
+Laptop,Mouse,2
+Laptop,Running Shoes,2
+Laptop,Running Shoes,2
+Laptop,Smart Watch,2
+Laptop,Sneakers,2
+Laptop,Socks,2
+Laptop,Storage Box,2
+Laptop,Vacuum Cleaner,2
+Laptop,Wall Clock,2
+Laptop,Water Bottle,2
+Laptop,Water Bottle,2
+Machine Learning Basics,Clean Code,2
+Machine Learning Basics,Cloud Computing,2
+Mechanical Keyboard,Artificial Intelligence,2
+Mechanical Keyboard,Bedsheet Set,2
+Mechanical Keyboard,Cap,2
+Mechanical Keyboard,Cloud Computing,2
+Mechanical Keyboard,Cloud Computing,2
+Mechanical Keyboard,Coffee Maker,2
+Mechanical Keyboard,Cotton Shirt,2
+Mechanical Keyboard,Cotton Shirt,2
+Mechanical Keyboard,Database Systems,2
+Mechanical Keyboard,Database Systems,2
+Mechanical Keyboard,Database Systems,2
+Mechanical Keyboard,Denim Jeans,2
+Mechanical Keyboard,Hoodie,2
+Mechanical Keyboard,Hoodie,2
+Mechanical Keyboard,Hoodie,2
+Mechanical Keyboard,Hoodie,2
+Mechanical Keyboard,Mouse,2
+Mechanical Keyboard,Mouse,2
+Mechanical Keyboard,Office Chair,2
+Mechanical Keyboard,Running Shoes,2
+Mechanical Keyboard,Smart Watch,2
+Mechanical Keyboard,Sql Handbook,2
+Mechanical Keyboard,Statistics Guide,2
+Mechanical Keyboard,Statistics Guide,2
+Mechanical Keyboard,Storage Box,2
+Mechanical Keyboard,Storage Box,2
+Mechanical Keyboard,Wall Clock,2
+Mechanical Keyboard,Wall Clock,2
+Mechanical Keyboard,Water Bottle,2
+Mechanical Keyboard,Webcam,2
+Mouse,Artificial Intelligence,2
+Mouse,Backpack,2
+Mouse,Backpack,2
+Mouse,Bedsheet Set,2
+Mouse,Cap,2
+Mouse,Casual Trousers,2
+Mouse,Casual Trousers,2
+Mouse,Clean Code,2
+Mouse,Coffee Maker,2
+Mouse,Coffee Maker,2
+Mouse,Cotton Shirt,2
+Mouse,Cotton Shirt,2
+Mouse,Cushion Set,2
+Mouse,Cushion Set,2
+Mouse,Data Engineering,2
+Mouse,Data Engineering,2
+Mouse,Data Engineering,2
+Mouse,Database Systems,2
+Mouse,Denim Jeans,2
+Mouse,Denim Jeans,2
+Mouse,Hoodie,2
+Mouse,Jacket,2
+Mouse,Machine Learning Basics,2
+Mouse,Machine Learning Basics,2
+Mouse,Mouse,2
+Mouse,Python Programming,2
+Mouse,Running Shoes,2
+Mouse,Socks,2
+Mouse,Sql Handbook,2
+Mouse,Statistics Guide,2
+Mouse,Statistics Guide,2
+Mouse,Table Lamp,2
+Office Chair,Artificial Intelligence,2
+Office Chair,Artificial Intelligence,2
+Office Chair,Clean Code,2
+Office Chair,Machine Learning Basics,2
+Office Chair,Machine Learning Basics,2
+Office Chair,Sql Handbook,2
+Office Chair,Storage Box,2
+Office Chair,Storage Box,2
+Office Chair,Water Bottle,2
+Power Bank,Bedsheet Set,2
+Power Bank,Clean Code,2
+Power Bank,Cloud Computing,2
+Power Bank,Coffee Maker,2
+Power Bank,Cookware Set,2
+Power Bank,Cookware Set,2
+Power Bank,Cushion Set,2
+Power Bank,Denim Jeans,2
+Power Bank,Hoodie,2
+Power Bank,Jacket,2
+Power Bank,Mouse,2
+Power Bank,Python Programming,2
+Power Bank,Running Shoes,2
+Power Bank,Sneakers,2
+Power Bank,Socks,2
+Power Bank,Sql Handbook,2
+Power Bank,Statistics Guide,2
+Power Bank,Statistics Guide,2
+Power Bank,Table Lamp,2
+Power Bank,Vacuum Cleaner,2
+Power Bank,Water Bottle,2
+Power Bank,Water Bottle,2
+Power Bank,Water Bottle,2
+Power Bank,Web Development,2
+Power Bank,Webcam,2
+Power Bank,Webcam,2
+Power Bank,Webcam,2
+Python Programming,Clean Code,2
+Python Programming,Cloud Computing,2
+Python Programming,Database Systems,2
+Running Shoes,Cloud Computing,2
+Running Shoes,Database Systems,2
+Running Shoes,Jacket,2
+Running Shoes,Python Programming,2
+Running Shoes,Sneakers,2
+Running Shoes,Socks,2
+Running Shoes,Socks,2
+Running Shoes,Sql Handbook,2
+Running Shoes,Statistics Guide,2
+Running Shoes,Storage Box,2
+Running Shoes,Wall Clock,2
+Running Shoes,Web Development,2
+Smart Watch,Artificial Intelligence,2
+Smart Watch,Bedsheet Set,2
+Smart Watch,Cap,2
+Smart Watch,Cloud Computing,2
+Smart Watch,Cotton Shirt,2
+Smart Watch,Data Engineering,2
+Smart Watch,Database Systems,2
+Smart Watch,Denim Jeans,2
+Smart Watch,Jacket,2
+Smart Watch,Machine Learning Basics,2
+Smart Watch,Mouse,2
+Smart Watch,Python Programming,2
+Smart Watch,Running Shoes,2
+Smart Watch,Socks,2
+Smart Watch,Sql Handbook,2
+Smart Watch,Storage Box,2
+Smart Watch,Storage Box,2
+Smart Watch,Water Bottle,2
+Smartphone,Backpack,2
+Smartphone,Cap,2
+Smartphone,Cap,2
+Smartphone,Cap,2
+Smartphone,Clean Code,2
+Smartphone,Cloud Computing,2
+Smartphone,Cookware Set,2
+Smartphone,Cushion Set,2
+Smartphone,Data Engineering,2
+Smartphone,Database Systems,2
+Smartphone,Denim Jeans,2
+Smartphone,Hoodie,2
+Smartphone,Laptop,2
+Smartphone,Mouse,2
+Smartphone,Mouse,2
+Smartphone,Office Chair,2
+Smartphone,Power Bank,2
+Smartphone,Power Bank,2
+Smartphone,Running Shoes,2
+Smartphone,Smart Watch,2
+Smartphone,Sneakers,2
+Smartphone,Sql Handbook,2
+Smartphone,Statistics Guide,2
+Smartphone,Storage Box,2
+Smartphone,Storage Box,2
+Smartphone,Vacuum Cleaner,2
+Smartphone,Wall Clock,2
+Smartphone,Wall Clock,2
+Smartphone,Webcam,2
+Sneakers,Backpack,2
+Sneakers,Cap,2
+Sneakers,Clean Code,2
+Sneakers,Cloud Computing,2
+Sneakers,Cloud Computing,2
+Sneakers,Coffee Maker,2
+Sneakers,Database Systems,2
+Sneakers,Socks,2
+Sneakers,Statistics Guide,2
+Sneakers,Storage Box,2
+Sneakers,Wall Clock,2
+Sneakers,Water Bottle,2
+Sneakers,Web Development,2
+Socks,Cap,2
+Socks,Coffee Maker,2
+Socks,Coffee Maker,2
+Socks,Cushion Set,2
+Socks,Cushion Set,2
+Socks,Database Systems,2
+Socks,Database Systems,2
+Socks,Machine Learning Basics,2
+Socks,Sql Handbook,2
+Socks,Table Lamp,2
+Socks,Water Bottle,2
+Sql Handbook,Artificial Intelligence,2
+Sql Handbook,Artificial Intelligence,2
+Sql Handbook,Clean Code,2
+Sql Handbook,Database Systems,2
+Sql Handbook,Web Development,2
+Statistics Guide,Database Systems,2
+Statistics Guide,Web Development,2
+Storage Box,Cookware Set,2
+Storage Box,Cushion Set,2
+Storage Box,Sql Handbook,2
+Storage Box,Statistics Guide,2
+Storage Box,Statistics Guide,2
+Storage Box,Vacuum Cleaner,2
+Storage Box,Vacuum Cleaner,2
+Storage Box,Water Bottle,2
+Storage Box,Web Development,2
+Storage Box,Web Development,2
+Table Lamp,Artificial Intelligence,2
+Table Lamp,Clean Code,2
+Table Lamp,Clean Code,2
+Table Lamp,Cloud Computing,2
+Table Lamp,Data Engineering,2
+Table Lamp,Database Systems,2
+Table Lamp,Machine Learning Basics,2
+Table Lamp,Office Chair,2
+Table Lamp,Water Bottle,2
+Table Lamp,Web Development,2
+Usb-C Cable,Backpack,2
+Usb-C Cable,Cap,2
+Usb-C Cable,Clean Code,2
+Usb-C Cable,Data Engineering,2
+Usb-C Cable,Denim Jeans,2
+Usb-C Cable,Jacket,2
+Usb-C Cable,Mouse,2
+Usb-C Cable,Running Shoes,2
+Usb-C Cable,Running Shoes,2
+Usb-C Cable,Smart Watch,2
+Usb-C Cable,Smart Watch,2
+Usb-C Cable,Vacuum Cleaner,2
+Usb-C Cable,Web Development,2
+Usb-C Cable,Webcam,2
+Vacuum Cleaner,Clean Code,2
+Vacuum Cleaner,Database Systems,2
+Vacuum Cleaner,Machine Learning Basics,2
+Vacuum Cleaner,Python Programming,2
+Vacuum Cleaner,Statistics Guide,2
+Wall Clock,Clean Code,2
+Wall Clock,Clean Code,2
+Wall Clock,Data Engineering,2
+Wall Clock,Python Programming,2
+Wall Clock,Sql Handbook,2
+Wall Clock,Statistics Guide,2
+Water Bottle,Artificial Intelligence,2
+Water Bottle,Clean Code,2
+Water Bottle,Cloud Computing,2
+Water Bottle,Cloud Computing,2
+Water Bottle,Cookware Set,2
+Water Bottle,Cookware Set,2
+Water Bottle,Cookware Set,2
+Water Bottle,Cushion Set,2
+Water Bottle,Database Systems,2
+Water Bottle,Sql Handbook,2
+Water Bottle,Sql Handbook,2
+Water Bottle,Statistics Guide,2
+Water Bottle,Wall Clock,2
+Water Bottle,Wall Clock,2
+Water Bottle,Wall Clock,2
+Webcam,Backpack,2
+Webcam,Bedsheet Set,2
+Webcam,Cap,2
+Webcam,Casual Trousers,2
+Webcam,Casual Trousers,2
+Webcam,Clean Code,2
+Webcam,Clean Code,2
+Webcam,Cloud Computing,2
+Webcam,Coffee Maker,2
+Webcam,Cookware Set,2
+Webcam,Cotton Shirt,2
+Webcam,Cotton Shirt,2
+Webcam,Cushion Set,2
+Webcam,Database Systems,2
+Webcam,Hoodie,2
+Webcam,Mouse,2
+Webcam,Python Programming,2
+Webcam,Running Shoes,2
+Webcam,Sneakers,2
+Webcam,Sneakers,2
+Webcam,Socks,2
+Webcam,Wall Clock,2
+Webcam,Water Bottle,2
+Webcam,Web Development,2
+Webcam,Web Development,2
+Wireless Headphones,Bedsheet Set,2
+Wireless Headphones,Cap,2
+Wireless Headphones,Coffee Maker,2
+Wireless Headphones,Coffee Maker,2
+Wireless Headphones,Cookware Set,2
+Wireless Headphones,Cotton Shirt,2
+Wireless Headphones,Data Engineering,2
+Wireless Headphones,Denim Jeans,2
+Wireless Headphones,Hoodie,2
+Wireless Headphones,Laptop,2
+Wireless Headphones,Laptop,2
+Wireless Headphones,Machine Learning Basics,2
+Wireless Headphones,Machine Learning Basics,2
+Wireless Headphones,Machine Learning Basics,2
+Wireless Headphones,Mouse,2
+Wireless Headphones,Power Bank,2
+Wireless Headphones,Python Programming,2
+Wireless Headphones,Python Programming,2
+Wireless Headphones,Running Shoes,2
+Wireless Headphones,Smart Watch,2
+Wireless Headphones,Smart Watch,2
+Wireless Headphones,Smartphone,2
+Wireless Headphones,Sneakers,2
+Wireless Headphones,Sneakers,2
+Wireless Headphones,Sql Handbook,2
+Wireless Headphones,Usb-C Cable,2
+Wireless Headphones,Usb-C Cable,2
+Wireless Headphones,Vacuum Cleaner,2
+Wireless Headphones,Water Bottle,2
+Wireless Headphones,Web Development,2
+Wireless Headphones,Webcam,2
+Artificial Intelligence,Clean Code,1
+Artificial Intelligence,Database Systems,1
+Artificial Intelligence,Database Systems,1
+Artificial Intelligence,Statistics Guide,1
+Artificial Intelligence,Statistics Guide,1
+Artificial Intelligence,Web Development,1
+Artificial Intelligence,Web Development,1
+Artificial Intelligence,Web Development,1
+Backpack,Artificial Intelligence,1
+Backpack,Bedsheet Set,1
+Backpack,Bedsheet Set,1
+Backpack,Bedsheet Set,1
+Backpack,Cloud Computing,1
+Backpack,Cloud Computing,1
+Backpack,Coffee Maker,1
+Backpack,Cookware Set,1
+Backpack,Cushion Set,1
+Backpack,Data Engineering,1
+Backpack,Data Engineering,1
+Backpack,Data Engineering,1
+Backpack,Database Systems,1
+Backpack,Database Systems,1
+Backpack,Machine Learning Basics,1
+Backpack,Machine Learning Basics,1
+Backpack,Office Chair,1
+Backpack,Office Chair,1
+Backpack,Python Programming,1
+Backpack,Socks,1
+Backpack,Sql Handbook,1
+Backpack,Sql Handbook,1
+Backpack,Sql Handbook,1
+Backpack,Statistics Guide,1
+Backpack,Storage Box,1
+Backpack,Storage Box,1
+Backpack,Vacuum Cleaner,1
+Backpack,Vacuum Cleaner,1
+Backpack,Wall Clock,1
+Backpack,Wall Clock,1
+Backpack,Water Bottle,1
+Backpack,Web Development,1
+Bedsheet Set,Artificial Intelligence,1
+Bedsheet Set,Artificial Intelligence,1
+Bedsheet Set,Clean Code,1
+Bedsheet Set,Clean Code,1
+Bedsheet Set,Cloud Computing,1
+Bedsheet Set,Cushion Set,1
+Bedsheet Set,Cushion Set,1
+Bedsheet Set,Data Engineering,1
+Bedsheet Set,Database Systems,1
+Bedsheet Set,Machine Learning Basics,1
+Bedsheet Set,Python Programming,1
+Bedsheet Set,Python Programming,1
+Bedsheet Set,Sql Handbook,1
+Bedsheet Set,Sql Handbook,1
+Bedsheet Set,Storage Box,1
+Bedsheet Set,Storage Box,1
+Bedsheet Set,Storage Box,1
+Bedsheet Set,Vacuum Cleaner,1
+Bedsheet Set,Wall Clock,1
+Bedsheet Set,Web Development,1
+Bedsheet Set,Web Development,1
+Bedsheet Set,Web Development,1
+Bedsheet Set,Web Development,1
+Bluetooth Speaker,Artificial Intelligence,1
+Bluetooth Speaker,Backpack,1
+Bluetooth Speaker,Backpack,1
+Bluetooth Speaker,Bedsheet Set,1
+Bluetooth Speaker,Cap,1
+Bluetooth Speaker,Cap,1
+Bluetooth Speaker,Casual Trousers,1
+Bluetooth Speaker,Casual Trousers,1
+Bluetooth Speaker,Casual Trousers,1
+Bluetooth Speaker,Clean Code,1
+Bluetooth Speaker,Cloud Computing,1
+Bluetooth Speaker,Cloud Computing,1
+Bluetooth Speaker,Coffee Maker,1
+Bluetooth Speaker,Cookware Set,1
+Bluetooth Speaker,Cookware Set,1
+Bluetooth Speaker,Cotton Shirt,1
+Bluetooth Speaker,Cushion Set,1
+Bluetooth Speaker,Cushion Set,1
+Bluetooth Speaker,Data Engineering,1
+Bluetooth Speaker,Data Engineering,1
+Bluetooth Speaker,Database Systems,1
+Bluetooth Speaker,Denim Jeans,1
+Bluetooth Speaker,Denim Jeans,1
+Bluetooth Speaker,Denim Jeans,1
+Bluetooth Speaker,Hoodie,1
+Bluetooth Speaker,Hoodie,1
+Bluetooth Speaker,Machine Learning Basics,1
+Bluetooth Speaker,Machine Learning Basics,1
+Bluetooth Speaker,Machine Learning Basics,1
+Bluetooth Speaker,Mechanical Keyboard,1
+Bluetooth Speaker,Mechanical Keyboard,1
+Bluetooth Speaker,Mouse,1
+Bluetooth Speaker,Mouse,1
+Bluetooth Speaker,Office Chair,1
+Bluetooth Speaker,Office Chair,1
+Bluetooth Speaker,Office Chair,1
+Bluetooth Speaker,Power Bank,1
+Bluetooth Speaker,Python Programming,1
+Bluetooth Speaker,Python Programming,1
+Bluetooth Speaker,Running Shoes,1
+Bluetooth Speaker,Running Shoes,1
+Bluetooth Speaker,Running Shoes,1
+Bluetooth Speaker,Smart Watch,1
+Bluetooth Speaker,Smart Watch,1
+Bluetooth Speaker,Smart Watch,1
+Bluetooth Speaker,Sneakers,1
+Bluetooth Speaker,Socks,1
+Bluetooth Speaker,Socks,1
+Bluetooth Speaker,Socks,1
+Bluetooth Speaker,Statistics Guide,1
+Bluetooth Speaker,Statistics Guide,1
+Bluetooth Speaker,Storage Box,1
+Bluetooth Speaker,Storage Box,1
+Bluetooth Speaker,Table Lamp,1
+Bluetooth Speaker,Usb-C Cable,1
+Bluetooth Speaker,Vacuum Cleaner,1
+Bluetooth Speaker,Vacuum Cleaner,1
+Bluetooth Speaker,Wall Clock,1
+Bluetooth Speaker,Water Bottle,1
+Bluetooth Speaker,Water Bottle,1
+Bluetooth Speaker,Web Development,1
+Bluetooth Speaker,Web Development,1
+Bluetooth Speaker,Webcam,1
+Bluetooth Speaker,Webcam,1
+Cap,Bedsheet Set,1
+Cap,Bedsheet Set,1
+Cap,Bedsheet Set,1
+Cap,Cloud Computing,1
+Cap,Coffee Maker,1
+Cap,Cookware Set,1
+Cap,Cookware Set,1
+Cap,Cushion Set,1
+Cap,Data Engineering,1
+Cap,Data Engineering,1
+Cap,Database Systems,1
+Cap,Machine Learning Basics,1
+Cap,Machine Learning Basics,1
+Cap,Office Chair,1
+Cap,Python Programming,1
+Cap,Python Programming,1
+Cap,Python Programming,1
+Cap,Statistics Guide,1
+Cap,Statistics Guide,1
+Cap,Storage Box,1
+Cap,Table Lamp,1
+Cap,Vacuum Cleaner,1
+Cap,Wall Clock,1
+Cap,Wall Clock,1
+Cap,Water Bottle,1
+Cap,Water Bottle,1
+Cap,Water Bottle,1
+Cap,Web Development,1
+Cap,Web Development,1
+Casual Trousers,Artificial Intelligence,1
+Casual Trousers,Backpack,1
+Casual Trousers,Backpack,1
+Casual Trousers,Bedsheet Set,1
+Casual Trousers,Bedsheet Set,1
+Casual Trousers,Casual Trousers,1
+Casual Trousers,Clean Code,1
+Casual Trousers,Cloud Computing,1
+Casual Trousers,Coffee Maker,1
+Casual Trousers,Cookware Set,1
+Casual Trousers,Cushion Set,1
+Casual Trousers,Cushion Set,1
+Casual Trousers,Cushion Set,1
+Casual Trousers,Data Engineering,1
+Casual Trousers,Database Systems,1
+Casual Trousers,Database Systems,1
+Casual Trousers,Database Systems,1
+Casual Trousers,Office Chair,1
+Casual Trousers,Office Chair,1
+Casual Trousers,Python Programming,1
+Casual Trousers,Sneakers,1
+Casual Trousers,Sneakers,1
+Casual Trousers,Sql Handbook,1
+Casual Trousers,Sql Handbook,1
+Casual Trousers,Statistics Guide,1
+Casual Trousers,Storage Box,1
+Casual Trousers,Table Lamp,1
+Casual Trousers,Vacuum Cleaner,1
+Casual Trousers,Vacuum Cleaner,1
+Casual Trousers,Wall Clock,1
+Casual Trousers,Wall Clock,1
+Casual Trousers,Water Bottle,1
+Casual Trousers,Web Development,1
+Casual Trousers,Web Development,1
+Casual Trousers,Web Development,1
+Clean Code,Statistics Guide,1
+Clean Code,Web Development,1
+Clean Code,Web Development,1
+Clean Code,Web Development,1
+Cloud Computing,Artificial Intelligence,1
+Cloud Computing,Clean Code,1
+Cloud Computing,Database Systems,1
+Cloud Computing,Statistics Guide,1
+Cloud Computing,Statistics Guide,1
+Cloud Computing,Statistics Guide,1
+Cloud Computing,Web Development,1
+Coffee Maker,Clean Code,1
+Coffee Maker,Cloud Computing,1
+Coffee Maker,Cookware Set,1
+Coffee Maker,Cookware Set,1
+Coffee Maker,Cookware Set,1
+Coffee Maker,Cushion Set,1
+Coffee Maker,Cushion Set,1
+Coffee Maker,Machine Learning Basics,1
+Coffee Maker,Office Chair,1
+Coffee Maker,Python Programming,1
+Coffee Maker,Python Programming,1
+Coffee Maker,Statistics Guide,1
+Coffee Maker,Statistics Guide,1
+Coffee Maker,Storage Box,1
+Coffee Maker,Storage Box,1
+Coffee Maker,Table Lamp,1
+Coffee Maker,Table Lamp,1
+Coffee Maker,Vacuum Cleaner,1
+Coffee Maker,Vacuum Cleaner,1
+Coffee Maker,Wall Clock,1
+Coffee Maker,Water Bottle,1
+Coffee Maker,Water Bottle,1
+Coffee Maker,Web Development,1
+Coffee Maker,Web Development,1
+Cookware Set,Artificial Intelligence,1
+Cookware Set,Artificial Intelligence,1
+Cookware Set,Cloud Computing,1
+Cookware Set,Cloud Computing,1
+Cookware Set,Cookware Set,1
+Cookware Set,Data Engineering,1
+Cookware Set,Data Engineering,1
+Cookware Set,Database Systems,1
+Cookware Set,Database Systems,1
+Cookware Set,Machine Learning Basics,1
+Cookware Set,Machine Learning Basics,1
+Cookware Set,Python Programming,1
+Cookware Set,Python Programming,1
+Cookware Set,Sql Handbook,1
+Cookware Set,Vacuum Cleaner,1
+Cookware Set,Wall Clock,1
+Cookware Set,Wall Clock,1
+Cookware Set,Wall Clock,1
+Cookware Set,Web Development,1
+Cotton Shirt,Artificial Intelligence,1
+Cotton Shirt,Backpack,1
+Cotton Shirt,Backpack,1
+Cotton Shirt,Bedsheet Set,1
+Cotton Shirt,Bedsheet Set,1
+Cotton Shirt,Cap,1
+Cotton Shirt,Cap,1
+Cotton Shirt,Cloud Computing,1
+Cotton Shirt,Coffee Maker,1
+Cotton Shirt,Data Engineering,1
+Cotton Shirt,Data Engineering,1
+Cotton Shirt,Database Systems,1
+Cotton Shirt,Database Systems,1
+Cotton Shirt,Database Systems,1
+Cotton Shirt,Denim Jeans,1
+Cotton Shirt,Denim Jeans,1
+Cotton Shirt,Denim Jeans,1
+Cotton Shirt,Denim Jeans,1
+Cotton Shirt,Jacket,1
+Cotton Shirt,Machine Learning Basics,1
+Cotton Shirt,Machine Learning Basics,1
+Cotton Shirt,Office Chair,1
+Cotton Shirt,Python Programming,1
+Cotton Shirt,Python Programming,1
+Cotton Shirt,Python Programming,1
+Cotton Shirt,Running Shoes,1
+Cotton Shirt,Running Shoes,1
+Cotton Shirt,Sneakers,1
+Cotton Shirt,Sneakers,1
+Cotton Shirt,Socks,1
+Cotton Shirt,Socks,1
+Cotton Shirt,Socks,1
+Cotton Shirt,Sql Handbook,1
+Cotton Shirt,Sql Handbook,1
+Cotton Shirt,Sql Handbook,1
+Cotton Shirt,Statistics Guide,1
+Cotton Shirt,Statistics Guide,1
+Cotton Shirt,Storage Box,1
+Cotton Shirt,Storage Box,1
+Cotton Shirt,Storage Box,1
+Cotton Shirt,Storage Box,1
+Cotton Shirt,Vacuum Cleaner,1
+Cotton Shirt,Vacuum Cleaner,1
+Cotton Shirt,Vacuum Cleaner,1
+Cotton Shirt,Wall Clock,1
+Cotton Shirt,Water Bottle,1
+Cotton Shirt,Water Bottle,1
+Cotton Shirt,Water Bottle,1
+Cotton Shirt,Water Bottle,1
+Cotton Shirt,Web Development,1
+Cotton Shirt,Web Development,1
+Cushion Set,Artificial Intelligence,1
+Cushion Set,Artificial Intelligence,1
+Cushion Set,Clean Code,1
+Cushion Set,Cloud Computing,1
+Cushion Set,Data Engineering,1
+Cushion Set,Machine Learning Basics,1
+Cushion Set,Machine Learning Basics,1
+Cushion Set,Python Programming,1
+Cushion Set,Python Programming,1
+Cushion Set,Statistics Guide,1
+Cushion Set,Vacuum Cleaner,1
+Cushion Set,Vacuum Cleaner,1
+Cushion Set,Web Development,1
+Data Engineering,Artificial Intelligence,1
+Data Engineering,Artificial Intelligence,1
+Data Engineering,Artificial Intelligence,1
+Data Engineering,Clean Code,1
+Data Engineering,Clean Code,1
+Data Engineering,Cloud Computing,1
+Data Engineering,Cloud Computing,1
+Data Engineering,Cloud Computing,1
+Data Engineering,Database Systems,1
+Data Engineering,Machine Learning Basics,1
+Data Engineering,Machine Learning Basics,1
+Data Engineering,Machine Learning Basics,1
+Data Engineering,Statistics Guide,1
+Data Engineering,Web Development,1
+Denim Jeans,Artificial Intelligence,1
+Denim Jeans,Artificial Intelligence,1
+Denim Jeans,Bedsheet Set,1
+Denim Jeans,Bedsheet Set,1
+Denim Jeans,Casual Trousers,1
+Denim Jeans,Casual Trousers,1
+Denim Jeans,Clean Code,1
+Denim Jeans,Cloud Computing,1
+Denim Jeans,Coffee Maker,1
+Denim Jeans,Cookware Set,1
+Denim Jeans,Cookware Set,1
+Denim Jeans,Cookware Set,1
+Denim Jeans,Cushion Set,1
+Denim Jeans,Cushion Set,1
+Denim Jeans,Database Systems,1
+Denim Jeans,Hoodie,1
+Denim Jeans,Hoodie,1
+Denim Jeans,Machine Learning Basics,1
+Denim Jeans,Machine Learning Basics,1
+Denim Jeans,Python Programming,1
+Denim Jeans,Running Shoes,1
+Denim Jeans,Running Shoes,1
+Denim Jeans,Running Shoes,1
+Denim Jeans,Sneakers,1
+Denim Jeans,Sneakers,1
+Denim Jeans,Socks,1
+Denim Jeans,Socks,1
+Denim Jeans,Sql Handbook,1
+Denim Jeans,Statistics Guide,1
+Denim Jeans,Statistics Guide,1
+Denim Jeans,Storage Box,1
+Denim Jeans,Table Lamp,1
+Denim Jeans,Table Lamp,1
+Denim Jeans,Vacuum Cleaner,1
+Denim Jeans,Wall Clock,1
+Denim Jeans,Wall Clock,1
+Denim Jeans,Water Bottle,1
+Denim Jeans,Water Bottle,1
+Denim Jeans,Web Development,1
+Denim Jeans,Web Development,1
+Hoodie,Artificial Intelligence,1
+Hoodie,Artificial Intelligence,1
+Hoodie,Artificial Intelligence,1
+Hoodie,Backpack,1
+Hoodie,Bedsheet Set,1
+Hoodie,Clean Code,1
+Hoodie,Clean Code,1
+Hoodie,Cloud Computing,1
+Hoodie,Coffee Maker,1
+Hoodie,Cookware Set,1
+Hoodie,Cookware Set,1
+Hoodie,Cushion Set,1
+Hoodie,Data Engineering,1
+Hoodie,Database Systems,1
+Hoodie,Database Systems,1
+Hoodie,Jacket,1
+Hoodie,Jacket,1
+Hoodie,Jacket,1
+Hoodie,Machine Learning Basics,1
+Hoodie,Office Chair,1
+Hoodie,Python Programming,1
+Hoodie,Sneakers,1
+Hoodie,Sneakers,1
+Hoodie,Sql Handbook,1
+Hoodie,Sql Handbook,1
+Hoodie,Sql Handbook,1
+Hoodie,Storage Box,1
+Hoodie,Table Lamp,1
+Hoodie,Vacuum Cleaner,1
+Hoodie,Vacuum Cleaner,1
+Hoodie,Wall Clock,1
+Hoodie,Wall Clock,1
+Hoodie,Water Bottle,1
+Jacket,Artificial Intelligence,1
+Jacket,Artificial Intelligence,1
+Jacket,Backpack,1
+Jacket,Backpack,1
+Jacket,Backpack,1
+Jacket,Bedsheet Set,1
+Jacket,Bedsheet Set,1
+Jacket,Cap,1
+Jacket,Cap,1
+Jacket,Casual Trousers,1
+Jacket,Casual Trousers,1
+Jacket,Cloud Computing,1
+Jacket,Cloud Computing,1
+Jacket,Coffee Maker,1
+Jacket,Coffee Maker,1
+Jacket,Cookware Set,1
+Jacket,Cookware Set,1
+Jacket,Cookware Set,1
+Jacket,Cushion Set,1
+Jacket,Data Engineering,1
+Jacket,Data Engineering,1
+Jacket,Data Engineering,1
+Jacket,Database Systems,1
+Jacket,Jacket,1
+Jacket,Office Chair,1
+Jacket,Python Programming,1
+Jacket,Python Programming,1
+Jacket,Sneakers,1
+Jacket,Sneakers,1
+Jacket,Socks,1
+Jacket,Sql Handbook,1
+Jacket,Sql Handbook,1
+Jacket,Statistics Guide,1
+Jacket,Table Lamp,1
+Jacket,Table Lamp,1
+Jacket,Vacuum Cleaner,1
+Jacket,Wall Clock,1
+Jacket,Wall Clock,1
+Jacket,Water Bottle,1
+Jacket,Web Development,1
+Jacket,Web Development,1
+Laptop,Artificial Intelligence,1
+Laptop,Artificial Intelligence,1
+Laptop,Backpack,1
+Laptop,Backpack,1
+Laptop,Bedsheet Set,1
+Laptop,Bluetooth Speaker,1
+Laptop,Casual Trousers,1
+Laptop,Casual Trousers,1
+Laptop,Casual Trousers,1
+Laptop,Coffee Maker,1
+Laptop,Coffee Maker,1
+Laptop,Coffee Maker,1
+Laptop,Cookware Set,1
+Laptop,Cookware Set,1
+Laptop,Cookware Set,1
+Laptop,Cotton Shirt,1
+Laptop,Cotton Shirt,1
+Laptop,Data Engineering,1
+Laptop,Database Systems,1
+Laptop,Denim Jeans,1
+Laptop,Denim Jeans,1
+Laptop,Denim Jeans,1
+Laptop,Hoodie,1
+Laptop,Jacket,1
+Laptop,Jacket,1
+Laptop,Mechanical Keyboard,1
+Laptop,Mechanical Keyboard,1
+Laptop,Mouse,1
+Laptop,Office Chair,1
+Laptop,Office Chair,1
+Laptop,Office Chair,1
+Laptop,Power Bank,1
+Laptop,Power Bank,1
+Laptop,Python Programming,1
+Laptop,Python Programming,1
+Laptop,Python Programming,1
+Laptop,Running Shoes,1
+Laptop,Smart Watch,1
+Laptop,Sneakers,1
+Laptop,Socks,1
+Laptop,Sql Handbook,1
+Laptop,Sql Handbook,1
+Laptop,Sql Handbook,1
+Laptop,Statistics Guide,1
+Laptop,Statistics Guide,1
+Laptop,Storage Box,1
+Laptop,Table Lamp,1
+Laptop,Vacuum Cleaner,1
+Laptop,Vacuum Cleaner,1
+Laptop,Water Bottle,1
+Laptop,Web Development,1
+Laptop,Web Development,1
+Laptop,Web Development,1
+Laptop,Webcam,1
+Machine Learning Basics,Clean Code,1
+Machine Learning Basics,Cloud Computing,1
+Machine Learning Basics,Cloud Computing,1
+Machine Learning Basics,Database Systems,1
+Machine Learning Basics,Database Systems,1
+Machine Learning Basics,Database Systems,1
+Machine Learning Basics,Sql Handbook,1
+Machine Learning Basics,Sql Handbook,1
+Machine Learning Basics,Sql Handbook,1
+Machine Learning Basics,Statistics Guide,1
+Machine Learning Basics,Statistics Guide,1
+Machine Learning Basics,Web Development,1
+Machine Learning Basics,Web Development,1
+Mechanical Keyboard,Artificial Intelligence,1
+Mechanical Keyboard,Cap,1
+Mechanical Keyboard,Clean Code,1
+Mechanical Keyboard,Cotton Shirt,1
+Mechanical Keyboard,Cushion Set,1
+Mechanical Keyboard,Cushion Set,1
+Mechanical Keyboard,Cushion Set,1
+Mechanical Keyboard,Data Engineering,1
+Mechanical Keyboard,Database Systems,1
+Mechanical Keyboard,Denim Jeans,1
+Mechanical Keyboard,Jacket,1
+Mechanical Keyboard,Jacket,1
+Mechanical Keyboard,Machine Learning Basics,1
+Mechanical Keyboard,Machine Learning Basics,1
+Mechanical Keyboard,Mechanical Keyboard,1
+Mechanical Keyboard,Office Chair,1
+Mechanical Keyboard,Office Chair,1
+Mechanical Keyboard,Power Bank,1
+Mechanical Keyboard,Power Bank,1
+Mechanical Keyboard,Power Bank,1
+Mechanical Keyboard,Smart Watch,1
+Mechanical Keyboard,Sneakers,1
+Mechanical Keyboard,Sneakers,1
+Mechanical Keyboard,Sneakers,1
+Mechanical Keyboard,Socks,1
+Mechanical Keyboard,Socks,1
+Mechanical Keyboard,Socks,1
+Mechanical Keyboard,Sql Handbook,1
+Mechanical Keyboard,Sql Handbook,1
+Mechanical Keyboard,Statistics Guide,1
+Mechanical Keyboard,Storage Box,1
+Mechanical Keyboard,Storage Box,1
+Mechanical Keyboard,Table Lamp,1
+Mechanical Keyboard,Table Lamp,1
+Mechanical Keyboard,Table Lamp,1
+Mechanical Keyboard,Table Lamp,1
+Mechanical Keyboard,Vacuum Cleaner,1
+Mechanical Keyboard,Vacuum Cleaner,1
+Mechanical Keyboard,Vacuum Cleaner,1
+Mechanical Keyboard,Wall Clock,1
+Mechanical Keyboard,Water Bottle,1
+Mechanical Keyboard,Web Development,1
+Mechanical Keyboard,Web Development,1
+Mechanical Keyboard,Webcam,1
+Mechanical Keyboard,Webcam,1
+Mouse,Backpack,1
+Mouse,Backpack,1
+Mouse,Bedsheet Set,1
+Mouse,Bedsheet Set,1
+Mouse,Cap,1
+Mouse,Casual Trousers,1
+Mouse,Casual Trousers,1
+Mouse,Clean Code,1
+Mouse,Clean Code,1
+Mouse,Clean Code,1
+Mouse,Cloud Computing,1
+Mouse,Coffee Maker,1
+Mouse,Cookware Set,1
+Mouse,Cookware Set,1
+Mouse,Cookware Set,1
+Mouse,Cushion Set,1
+Mouse,Data Engineering,1
+Mouse,Database Systems,1
+Mouse,Denim Jeans,1
+Mouse,Hoodie,1
+Mouse,Jacket,1
+Mouse,Machine Learning Basics,1
+Mouse,Office Chair,1
+Mouse,Python Programming,1
+Mouse,Python Programming,1
+Mouse,Running Shoes,1
+Mouse,Sneakers,1
+Mouse,Socks,1
+Mouse,Storage Box,1
+Mouse,Table Lamp,1
+Mouse,Vacuum Cleaner,1
+Mouse,Vacuum Cleaner,1
+Mouse,Wall Clock,1
+Mouse,Web Development,1
+Office Chair,Artificial Intelligence,1
+Office Chair,Artificial Intelligence,1
+Office Chair,Bedsheet Set,1
+Office Chair,Clean Code,1
+Office Chair,Cookware Set,1
+Office Chair,Cushion Set,1
+Office Chair,Data Engineering,1
+Office Chair,Database Systems,1
+Office Chair,Database Systems,1
+Office Chair,Machine Learning Basics,1
+Office Chair,Python Programming,1
+Office Chair,Python Programming,1
+Office Chair,Sql Handbook,1
+Office Chair,Sql Handbook,1
+Office Chair,Statistics Guide,1
+Office Chair,Storage Box,1
+Office Chair,Vacuum Cleaner,1
+Office Chair,Wall Clock,1
+Office Chair,Water Bottle,1
+Office Chair,Water Bottle,1
+Office Chair,Web Development,1
+Power Bank,Artificial Intelligence,1
+Power Bank,Backpack,1
+Power Bank,Backpack,1
+Power Bank,Bedsheet Set,1
+Power Bank,Cap,1
+Power Bank,Cap,1
+Power Bank,Clean Code,1
+Power Bank,Clean Code,1
+Power Bank,Cloud Computing,1
+Power Bank,Coffee Maker,1
+Power Bank,Cookware Set,1
+Power Bank,Cotton Shirt,1
+Power Bank,Cotton Shirt,1
+Power Bank,Cotton Shirt,1
+Power Bank,Data Engineering,1
+Power Bank,Denim Jeans,1
+Power Bank,Jacket,1
+Power Bank,Jacket,1
+Power Bank,Jacket,1
+Power Bank,Machine Learning Basics,1
+Power Bank,Machine Learning Basics,1
+Power Bank,Mouse,1
+Power Bank,Office Chair,1
+Power Bank,Python Programming,1
+Power Bank,Running Shoes,1
+Power Bank,Running Shoes,1
+Power Bank,Socks,1
+Power Bank,Sql Handbook,1
+Power Bank,Statistics Guide,1
+Power Bank,Storage Box,1
+Power Bank,Storage Box,1
+Power Bank,Storage Box,1
+Power Bank,Table Lamp,1
+Power Bank,Table Lamp,1
+Power Bank,Vacuum Cleaner,1
+Power Bank,Vacuum Cleaner,1
+Power Bank,Wall Clock,1
+Power Bank,Web Development,1
+Power Bank,Web Development,1
+Python Programming,Artificial Intelligence,1
+Python Programming,Clean Code,1
+Python Programming,Clean Code,1
+Python Programming,Cloud Computing,1
+Python Programming,Data Engineering,1
+Python Programming,Machine Learning Basics,1
+Python Programming,Sql Handbook,1
+Python Programming,Statistics Guide,1
+Running Shoes,Artificial Intelligence,1
+Running Shoes,Backpack,1
+Running Shoes,Bedsheet Set,1
+Running Shoes,Cap,1
+Running Shoes,Casual Trousers,1
+Running Shoes,Clean Code,1
+Running Shoes,Clean Code,1
+Running Shoes,Cloud Computing,1
+Running Shoes,Cloud Computing,1
+Running Shoes,Coffee Maker,1
+Running Shoes,Coffee Maker,1
+Running Shoes,Coffee Maker,1
+Running Shoes,Cookware Set,1
+Running Shoes,Cookware Set,1
+Running Shoes,Cookware Set,1
+Running Shoes,Cushion Set,1
+Running Shoes,Data Engineering,1
+Running Shoes,Hoodie,1
+Running Shoes,Hoodie,1
+Running Shoes,Hoodie,1
+Running Shoes,Hoodie,1
+Running Shoes,Jacket,1
+Running Shoes,Jacket,1
+Running Shoes,Jacket,1
+Running Shoes,Machine Learning Basics,1
+Running Shoes,Office Chair,1
+Running Shoes,Office Chair,1
+Running Shoes,Office Chair,1
+Running Shoes,Python Programming,1
+Running Shoes,Statistics Guide,1
+Running Shoes,Statistics Guide,1
+Running Shoes,Table Lamp,1
+Running Shoes,Table Lamp,1
+Running Shoes,Table Lamp,1
+Running Shoes,Vacuum Cleaner,1
+Running Shoes,Vacuum Cleaner,1
+Running Shoes,Water Bottle,1
+Running Shoes,Water Bottle,1
+Running Shoes,Water Bottle,1
+Running Shoes,Water Bottle,1
+Smart Watch,Artificial Intelligence,1
+Smart Watch,Artificial Intelligence,1
+Smart Watch,Backpack,1
+Smart Watch,Bedsheet Set,1
+Smart Watch,Cap,1
+Smart Watch,Cap,1
+Smart Watch,Casual Trousers,1
+Smart Watch,Casual Trousers,1
+Smart Watch,Clean Code,1
+Smart Watch,Clean Code,1
+Smart Watch,Clean Code,1
+Smart Watch,Cloud Computing,1
+Smart Watch,Coffee Maker,1
+Smart Watch,Coffee Maker,1
+Smart Watch,Cookware Set,1
+Smart Watch,Cookware Set,1
+Smart Watch,Cotton Shirt,1
+Smart Watch,Cushion Set,1
+Smart Watch,Cushion Set,1
+Smart Watch,Data Engineering,1
+Smart Watch,Denim Jeans,1
+Smart Watch,Hoodie,1
+Smart Watch,Hoodie,1
+Smart Watch,Jacket,1
+Smart Watch,Jacket,1
+Smart Watch,Jacket,1
+Smart Watch,Machine Learning Basics,1
+Smart Watch,Machine Learning Basics,1
+Smart Watch,Mouse,1
+Smart Watch,Office Chair,1
+Smart Watch,Office Chair,1
+Smart Watch,Office Chair,1
+Smart Watch,Power Bank,1
+Smart Watch,Python Programming,1
+Smart Watch,Python Programming,1
+Smart Watch,Python Programming,1
+Smart Watch,Running Shoes,1
+Smart Watch,Running Shoes,1
+Smart Watch,Smart Watch,1
+Smart Watch,Sneakers,1
+Smart Watch,Sneakers,1
+Smart Watch,Socks,1
+Smart Watch,Socks,1
+Smart Watch,Statistics Guide,1
+Smart Watch,Statistics Guide,1
+Smart Watch,Storage Box,1
+Smart Watch,Table Lamp,1
+Smart Watch,Vacuum Cleaner,1
+Smart Watch,Vacuum Cleaner,1
+Smart Watch,Wall Clock,1
+Smart Watch,Wall Clock,1
+Smart Watch,Web Development,1
+Smartphone,Artificial Intelligence,1
+Smartphone,Backpack,1
+Smartphone,Bedsheet Set,1
+Smartphone,Bedsheet Set,1
+Smartphone,Bedsheet Set,1
+Smartphone,Bedsheet Set,1
+Smartphone,Bluetooth Speaker,1
+Smartphone,Casual Trousers,1
+Smartphone,Clean Code,1
+Smartphone,Clean Code,1
+Smartphone,Clean Code,1
+Smartphone,Cloud Computing,1
+Smartphone,Coffee Maker,1
+Smartphone,Coffee Maker,1
+Smartphone,Cookware Set,1
+Smartphone,Cotton Shirt,1
+Smartphone,Cushion Set,1
+Smartphone,Data Engineering,1
+Smartphone,Database Systems,1
+Smartphone,Denim Jeans,1
+Smartphone,Denim Jeans,1
+Smartphone,Denim Jeans,1
+Smartphone,Hoodie,1
+Smartphone,Hoodie,1
+Smartphone,Hoodie,1
+Smartphone,Jacket,1
+Smartphone,Jacket,1
+Smartphone,Laptop,1
+Smartphone,Machine Learning Basics,1
+Smartphone,Mechanical Keyboard,1
+Smartphone,Mechanical Keyboard,1
+Smartphone,Mechanical Keyboard,1
+Smartphone,Mouse,1
+Smartphone,Office Chair,1
+Smartphone,Office Chair,1
+Smartphone,Power Bank,1
+Smartphone,Python Programming,1
+Smartphone,Running Shoes,1
+Smartphone,Running Shoes,1
+Smartphone,Smart Watch,1
+Smartphone,Smart Watch,1
+Smartphone,Smartphone,1
+Smartphone,Sneakers,1
+Smartphone,Sneakers,1
+Smartphone,Socks,1
+Smartphone,Socks,1
+Smartphone,Sql Handbook,1
+Smartphone,Statistics Guide,1
+Smartphone,Statistics Guide,1
+Smartphone,Storage Box,1
+Smartphone,Table Lamp,1
+Smartphone,Usb-C Cable,1
+Smartphone,Usb-C Cable,1
+Smartphone,Usb-C Cable,1
+Smartphone,Usb-C Cable,1
+Smartphone,Vacuum Cleaner,1
+Smartphone,Wall Clock,1
+Smartphone,Wall Clock,1
+Smartphone,Water Bottle,1
+Smartphone,Water Bottle,1
+Smartphone,Web Development,1
+Smartphone,Web Development,1
+Smartphone,Webcam,1
+Sneakers,Artificial Intelligence,1
+Sneakers,Backpack,1
+Sneakers,Bedsheet Set,1
+Sneakers,Cap,1
+Sneakers,Cap,1
+Sneakers,Cloud Computing,1
+Sneakers,Cloud Computing,1
+Sneakers,Coffee Maker,1
+Sneakers,Cookware Set,1
+Sneakers,Cookware Set,1
+Sneakers,Cushion Set,1
+Sneakers,Database Systems,1
+Sneakers,Machine Learning Basics,1
+Sneakers,Machine Learning Basics,1
+Sneakers,Office Chair,1
+Sneakers,Office Chair,1
+Sneakers,Python Programming,1
+Sneakers,Sneakers,1
+Sneakers,Socks,1
+Sneakers,Sql Handbook,1
+Sneakers,Sql Handbook,1
+Sneakers,Sql Handbook,1
+Sneakers,Statistics Guide,1
+Sneakers,Statistics Guide,1
+Sneakers,Statistics Guide,1
+Sneakers,Storage Box,1
+Sneakers,Storage Box,1
+Sneakers,Storage Box,1
+Sneakers,Table Lamp,1
+Sneakers,Table Lamp,1
+Sneakers,Table Lamp,1
+Sneakers,Vacuum Cleaner,1
+Sneakers,Wall Clock,1
+Sneakers,Wall Clock,1
+Sneakers,Web Development,1
+Socks,Artificial Intelligence,1
+Socks,Bedsheet Set,1
+Socks,Bedsheet Set,1
+Socks,Cap,1
+Socks,Clean Code,1
+Socks,Clean Code,1
+Socks,Cloud Computing,1
+Socks,Cloud Computing,1
+Socks,Cloud Computing,1
+Socks,Coffee Maker,1
+Socks,Cookware Set,1
+Socks,Cushion Set,1
+Socks,Data Engineering,1
+Socks,Data Engineering,1
+Socks,Database Systems,1
+Socks,Machine Learning Basics,1
+Socks,Machine Learning Basics,1
+Socks,Office Chair,1
+Socks,Python Programming,1
+Socks,Socks,1
+Socks,Sql Handbook,1
+Socks,Statistics Guide,1
+Socks,Statistics Guide,1
+Socks,Storage Box,1
+Socks,Storage Box,1
+Socks,Storage Box,1
+Socks,Table Lamp,1
+Socks,Vacuum Cleaner,1
+Socks,Vacuum Cleaner,1
+Socks,Vacuum Cleaner,1
+Socks,Wall Clock,1
+Socks,Wall Clock,1
+Socks,Wall Clock,1
+Socks,Wall Clock,1
+Socks,Water Bottle,1
+Socks,Web Development,1
+Sql Handbook,Clean Code,1
+Sql Handbook,Cloud Computing,1
+Sql Handbook,Database Systems,1
+Sql Handbook,Database Systems,1
+Sql Handbook,Sql Handbook,1
+Sql Handbook,Statistics Guide,1
+Sql Handbook,Statistics Guide,1
+Sql Handbook,Statistics Guide,1
+Sql Handbook,Web Development,1
+Sql Handbook,Web Development,1
+Statistics Guide,Database Systems,1
+Statistics Guide,Database Systems,1
+Statistics Guide,Statistics Guide,1
+Statistics Guide,Web Development,1
+Statistics Guide,Web Development,1
+Storage Box,Clean Code,1
+Storage Box,Clean Code,1
+Storage Box,Clean Code,1
+Storage Box,Cloud Computing,1
+Storage Box,Cloud Computing,1
+Storage Box,Cookware Set,1
+Storage Box,Data Engineering,1
+Storage Box,Data Engineering,1
+Storage Box,Database Systems,1
+Storage Box,Database Systems,1
+Storage Box,Database Systems,1
+Storage Box,Machine Learning Basics,1
+Storage Box,Machine Learning Basics,1
+Storage Box,Python Programming,1
+Storage Box,Python Programming,1
+Storage Box,Sql Handbook,1
+Storage Box,Statistics Guide,1
+Storage Box,Wall Clock,1
+Storage Box,Wall Clock,1
+Storage Box,Wall Clock,1
+Storage Box,Water Bottle,1
+Storage Box,Water Bottle,1
+Storage Box,Web Development,1
+Table Lamp,Artificial Intelligence,1
+Table Lamp,Bedsheet Set,1
+Table Lamp,Bedsheet Set,1
+Table Lamp,Bedsheet Set,1
+Table Lamp,Cloud Computing,1
+Table Lamp,Cloud Computing,1
+Table Lamp,Cookware Set,1
+Table Lamp,Cookware Set,1
+Table Lamp,Cookware Set,1
+Table Lamp,Cushion Set,1
+Table Lamp,Cushion Set,1
+Table Lamp,Database Systems,1
+Table Lamp,Office Chair,1
+Table Lamp,Python Programming,1
+Table Lamp,Python Programming,1
+Table Lamp,Sql Handbook,1
+Table Lamp,Sql Handbook,1
+Table Lamp,Sql Handbook,1
+Table Lamp,Statistics Guide,1
+Table Lamp,Statistics Guide,1
+Table Lamp,Storage Box,1
+Table Lamp,Table Lamp,1
+Table Lamp,Vacuum Cleaner,1
+Table Lamp,Vacuum Cleaner,1
+Table Lamp,Wall Clock,1
+Table Lamp,Wall Clock,1
+Table Lamp,Wall Clock,1
+Table Lamp,Water Bottle,1
+Table Lamp,Web Development,1
+Usb-C Cable,Artificial Intelligence,1
+Usb-C Cable,Bedsheet Set,1
+Usb-C Cable,Casual Trousers,1
+Usb-C Cable,Casual Trousers,1
+Usb-C Cable,Clean Code,1
+Usb-C Cable,Cloud Computing,1
+Usb-C Cable,Coffee Maker,1
+Usb-C Cable,Coffee Maker,1
+Usb-C Cable,Cookware Set,1
+Usb-C Cable,Cookware Set,1
+Usb-C Cable,Cotton Shirt,1
+Usb-C Cable,Cotton Shirt,1
+Usb-C Cable,Cushion Set,1
+Usb-C Cable,Data Engineering,1
+Usb-C Cable,Database Systems,1
+Usb-C Cable,Denim Jeans,1
+Usb-C Cable,Hoodie,1
+Usb-C Cable,Hoodie,1
+Usb-C Cable,Jacket,1
+Usb-C Cable,Jacket,1
+Usb-C Cable,Jacket,1
+Usb-C Cable,Machine Learning Basics,1
+Usb-C Cable,Mechanical Keyboard,1
+Usb-C Cable,Mechanical Keyboard,1
+Usb-C Cable,Mouse,1
+Usb-C Cable,Mouse,1
+Usb-C Cable,Office Chair,1
+Usb-C Cable,Office Chair,1
+Usb-C Cable,Office Chair,1
+Usb-C Cable,Office Chair,1
+Usb-C Cable,Python Programming,1
+Usb-C Cable,Python Programming,1
+Usb-C Cable,Python Programming,1
+Usb-C Cable,Smart Watch,1
+Usb-C Cable,Sneakers,1
+Usb-C Cable,Sneakers,1
+Usb-C Cable,Sneakers,1
+Usb-C Cable,Sneakers,1
+Usb-C Cable,Socks,1
+Usb-C Cable,Sql Handbook,1
+Usb-C Cable,Sql Handbook,1
+Usb-C Cable,Statistics Guide,1
+Usb-C Cable,Storage Box,1
+Usb-C Cable,Storage Box,1
+Usb-C Cable,Table Lamp,1
+Usb-C Cable,Table Lamp,1
+Usb-C Cable,Vacuum Cleaner,1
+Usb-C Cable,Wall Clock,1
+Usb-C Cable,Wall Clock,1
+Usb-C Cable,Water Bottle,1
+Usb-C Cable,Water Bottle,1
+Usb-C Cable,Web Development,1
+Usb-C Cable,Webcam,1
+Vacuum Cleaner,Artificial Intelligence,1
+Vacuum Cleaner,Clean Code,1
+Vacuum Cleaner,Clean Code,1
+Vacuum Cleaner,Cloud Computing,1
+Vacuum Cleaner,Database Systems,1
+Vacuum Cleaner,Machine Learning Basics,1
+Vacuum Cleaner,Machine Learning Basics,1
+Wall Clock,Artificial Intelligence,1
+Wall Clock,Cloud Computing,1
+Wall Clock,Cloud Computing,1
+Wall Clock,Cushion Set,1
+Wall Clock,Cushion Set,1
+Wall Clock,Database Systems,1
+Wall Clock,Machine Learning Basics,1
+Wall Clock,Python Programming,1
+Wall Clock,Sql Handbook,1
+Wall Clock,Statistics Guide,1
+Wall Clock,Statistics Guide,1
+Wall Clock,Vacuum Cleaner,1
+Wall Clock,Vacuum Cleaner,1
+Wall Clock,Web Development,1
+Wall Clock,Web Development,1
+Water Bottle,Artificial Intelligence,1
+Water Bottle,Cloud Computing,1
+Water Bottle,Data Engineering,1
+Water Bottle,Database Systems,1
+Water Bottle,Database Systems,1
+Water Bottle,Database Systems,1
+Water Bottle,Machine Learning Basics,1
+Water Bottle,Machine Learning Basics,1
+Water Bottle,Machine Learning Basics,1
+Water Bottle,Python Programming,1
+Water Bottle,Python Programming,1
+Water Bottle,Sql Handbook,1
+Water Bottle,Vacuum Cleaner,1
+Water Bottle,Vacuum Cleaner,1
+Water Bottle,Web Development,1
+Water Bottle,Web Development,1
+Water Bottle,Web Development,1
+Web Development,Database Systems,1
+Webcam,Backpack,1
+Webcam,Bedsheet Set,1
+Webcam,Bedsheet Set,1
+Webcam,Cap,1
+Webcam,Cap,1
+Webcam,Casual Trousers,1
+Webcam,Casual Trousers,1
+Webcam,Clean Code,1
+Webcam,Clean Code,1
+Webcam,Cloud Computing,1
+Webcam,Coffee Maker,1
+Webcam,Cookware Set,1
+Webcam,Cookware Set,1
+Webcam,Cotton Shirt,1
+Webcam,Cushion Set,1
+Webcam,Data Engineering,1
+Webcam,Database Systems,1
+Webcam,Database Systems,1
+Webcam,Database Systems,1
+Webcam,Denim Jeans,1
+Webcam,Denim Jeans,1
+Webcam,Hoodie,1
+Webcam,Hoodie,1
+Webcam,Jacket,1
+Webcam,Machine Learning Basics,1
+Webcam,Machine Learning Basics,1
+Webcam,Machine Learning Basics,1
+Webcam,Mouse,1
+Webcam,Office Chair,1
+Webcam,Office Chair,1
+Webcam,Python Programming,1
+Webcam,Python Programming,1
+Webcam,Running Shoes,1
+Webcam,Sneakers,1
+Webcam,Sneakers,1
+Webcam,Socks,1
+Webcam,Socks,1
+Webcam,Sql Handbook,1
+Webcam,Sql Handbook,1
+Webcam,Sql Handbook,1
+Webcam,Statistics Guide,1
+Webcam,Statistics Guide,1
+Webcam,Statistics Guide,1
+Webcam,Storage Box,1
+Webcam,Storage Box,1
+Webcam,Storage Box,1
+Webcam,Storage Box,1
+Webcam,Table Lamp,1
+Webcam,Table Lamp,1
+Webcam,Vacuum Cleaner,1
+Webcam,Vacuum Cleaner,1
+Webcam,Wall Clock,1
+Webcam,Wall Clock,1
+Webcam,Web Development,1
+Webcam,Webcam,1
+Wireless Headphones,Artificial Intelligence,1
+Wireless Headphones,Backpack,1
+Wireless Headphones,Bedsheet Set,1
+Wireless Headphones,Bedsheet Set,1
+Wireless Headphones,Bluetooth Speaker,1
+Wireless Headphones,Bluetooth Speaker,1
+Wireless Headphones,Bluetooth Speaker,1
+Wireless Headphones,Cap,1
+Wireless Headphones,Cap,1
+Wireless Headphones,Casual Trousers,1
+Wireless Headphones,Casual Trousers,1
+Wireless Headphones,Casual Trousers,1
+Wireless Headphones,Clean Code,1
+Wireless Headphones,Clean Code,1
+Wireless Headphones,Cloud Computing,1
+Wireless Headphones,Cloud Computing,1
+Wireless Headphones,Cloud Computing,1
+Wireless Headphones,Cookware Set,1
+Wireless Headphones,Cookware Set,1
+Wireless Headphones,Cotton Shirt,1
+Wireless Headphones,Cotton Shirt,1
+Wireless Headphones,Cushion Set,1
+Wireless Headphones,Cushion Set,1
+Wireless Headphones,Cushion Set,1
+Wireless Headphones,Data Engineering,1
+Wireless Headphones,Database Systems,1
+Wireless Headphones,Database Systems,1
+Wireless Headphones,Hoodie,1
+Wireless Headphones,Jacket,1
+Wireless Headphones,Jacket,1
+Wireless Headphones,Jacket,1
+Wireless Headphones,Mechanical Keyboard,1
+Wireless Headphones,Mouse,1
+Wireless Headphones,Mouse,1
+Wireless Headphones,Office Chair,1
+Wireless Headphones,Office Chair,1
+Wireless Headphones,Office Chair,1
+Wireless Headphones,Power Bank,1
+Wireless Headphones,Power Bank,1
+Wireless Headphones,Python Programming,1
+Wireless Headphones,Running Shoes,1
+Wireless Headphones,Smartphone,1
+Wireless Headphones,Smartphone,1
+Wireless Headphones,Sneakers,1
+Wireless Headphones,Socks,1
+Wireless Headphones,Socks,1
+Wireless Headphones,Statistics Guide,1
+Wireless Headphones,Storage Box,1
+Wireless Headphones,Storage Box,1
+Wireless Headphones,Table Lamp,1
+Wireless Headphones,Table Lamp,1
+Wireless Headphones,Wall Clock,1
+Wireless Headphones,Wall Clock,1
+Wireless Headphones,Water Bottle,1
+Wireless Headphones,Water Bottle,1
+Wireless Headphones,Web Development,1
+Wireless Headphones,Webcam,1

@@ -1,0 +1,126 @@
+file,record_id,issue,action
+orders.csv,O00020,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00037,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00040,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00060,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00074,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00080,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00100,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00111,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00120,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00140,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00148,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00160,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00180,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00185,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00200,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00220,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00222,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00240,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00259,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00260,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00280,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00296,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00300,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00320,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00333,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00340,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00360,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00370,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00380,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00400,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00407,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00420,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00440,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00444,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00460,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00480,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00481,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00500,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00518,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00520,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00540,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00555,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00560,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00580,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00592,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00600,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00620,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00629,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00640,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00660,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00666,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00680,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00700,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00703,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00720,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00740,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00740,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00760,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00777,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00780,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00800,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00814,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00820,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00840,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00851,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00860,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00880,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00888,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00900,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00920,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00925,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00940,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00960,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00962,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O00980,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O00999,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O01000,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O01020,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O01036,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O01040,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O01060,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O01073,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O01080,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O01100,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O01110,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O01120,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O01140,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O01147,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O01160,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O01180,Missing customer_id,Replaced with UNKNOWN
+orders.csv,O01184,Wrong date format,Converted to YYYY-MM-DD HH:MM:SS
+orders.csv,O01200,Missing customer_id,Replaced with UNKNOWN
+products.csv,P0009,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0010,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0011,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0013,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0017,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0022,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0026,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0033,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0034,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0039,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0044,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0051,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0052,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0055,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0065,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0066,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0067,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0068,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0077,Messy product_name,Trimmed spaces and applied title case
+products.csv,P0078,Messy product_name,Trimmed spaces and applied title case
+customers.csv,C0050,Invalid email,Reported; original value retained
+customers.csv,C0100,Invalid email,Reported; original value retained
+customers.csv,C0150,Invalid email,Reported; original value retained
+customers.csv,C0200,Invalid email,Reported; original value retained
+customers.csv,C0250,Invalid email,Reported; original value retained
+customers.csv,C0300,Invalid email,Reported; original value retained
+customers.csv,C0350,Invalid email,Reported; original value retained
+customers.csv,C0400,Invalid email,Reported; original value retained
+customers.csv,C0450,Invalid email,Reported; original value retained
+customers.csv,C0500,Invalid email,Reported; original value retained
+customers.csv,C0550,Invalid email,Reported; original value retained
+customers.csv,C0600,Invalid email,Reported; original value retained
+customers.csv,C0650,Invalid email,Reported; original value retained

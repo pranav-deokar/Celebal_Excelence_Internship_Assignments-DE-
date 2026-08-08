@@ -1,0 +1,5 @@
+file,row_count,intentional_issues
+orders.csv,1200,5% missing customer_id; some DD-MM-YYYY dates
+order_items.csv,2976,Approximately 3% negative quantities
+products.csv,80,Messy product names included
+customers.csv,650,2% invalid emails

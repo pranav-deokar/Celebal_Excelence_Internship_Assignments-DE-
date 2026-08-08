@@ -1,0 +1,81 @@
+category,product_name,total_revenue,rank_in_category
+Books,Statistics Guide,3426260.45,1
+Books,Clean Code,2677399.96,2
+Books,Python Programming,2670048.54,3
+Books,Sql Handbook,2647624.21,4
+Books,Machine Learning Basics,2490742.78,5
+Books,Artificial Intelligence,2364265.73,6
+Books,Web Development,2316075.4,7
+Books,Web Development,2308693.96,8
+Books,Cloud Computing,2289061.38,9
+Books,Python Programming,2261584.52,10
+Books,Sql Handbook,2162311.65,11
+Books,Cloud Computing,2095106.47,12
+Books,Statistics Guide,2091013.13,13
+Books,Clean Code,1964344.5,14
+Books,Database Systems,1881126.47,15
+Books,Database Systems,1855140.68,16
+Books,Artificial Intelligence,1785676.37,17
+Books,Data Engineering,1728320.33,18
+Books,Data Engineering,1645565.99,19
+Books,Machine Learning Basics,1476591.92,20
+Clothing,Backpack,3405395.54,1
+Clothing,Jacket,3029580.45,2
+Clothing,Hoodie,2957083.18,3
+Clothing,Sneakers,2947059.07,4
+Clothing,Cap,2946417.83,5
+Clothing,Cotton Shirt,2920681.56,6
+Clothing,Running Shoes,2702580.68,7
+Clothing,Sneakers,2688837.14,8
+Clothing,Denim Jeans,2661024.45,9
+Clothing,Cap,2581437.28,10
+Clothing,Socks,2553821.49,11
+Clothing,Cotton Shirt,2443660.19,12
+Clothing,Hoodie,2285026.55,13
+Clothing,Denim Jeans,2215468.03,14
+Clothing,Casual Trousers,2015402.68,15
+Clothing,Jacket,1951671.14,16
+Clothing,Running Shoes,1943601.17,17
+Clothing,Socks,1942891.92,18
+Clothing,Casual Trousers,1743698.22,19
+Clothing,Backpack,1389181.58,20
+Electronics,Smartphone,3759375.67,1
+Electronics,Wireless Headphones,3255488.84,2
+Electronics,Webcam,3175175.49,3
+Electronics,Power Bank,3011408.87,4
+Electronics,Mechanical Keyboard,2977670.11,5
+Electronics,Smart Watch,2881389.56,6
+Electronics,Mouse,2808278.35,7
+Electronics,Smartphone,2797334.42,8
+Electronics,Webcam,2772656.18,9
+Electronics,Wireless Headphones,2771949.14,10
+Electronics,Mouse,2745976.28,11
+Electronics,Laptop,2732260.63,12
+Electronics,Smart Watch,2495047.01,13
+Electronics,Usb-C Cable,2375733.91,14
+Electronics,Laptop,2285934.08,15
+Electronics,Bluetooth Speaker,2112819.38,16
+Electronics,Bluetooth Speaker,2027454.3,17
+Electronics,Mechanical Keyboard,1912401.31,18
+Electronics,Usb-C Cable,1873521.21,19
+Electronics,Power Bank,1665644.4,20
+Home,Coffee Maker,2921293.55,1
+Home,Wall Clock,2815430.66,2
+Home,Water Bottle,2698684.26,3
+Home,Bedsheet Set,2660579.91,4
+Home,Coffee Maker,2591254.74,5
+Home,Water Bottle,2411788.78,6
+Home,Table Lamp,2405128.9,7
+Home,Cookware Set,2375923.26,8
+Home,Vacuum Cleaner,2328733.44,9
+Home,Storage Box,2324430.73,10
+Home,Vacuum Cleaner,2312731.87,11
+Home,Cushion Set,2123681.78,12
+Home,Office Chair,2036030.1,13
+Home,Cushion Set,1955705.79,14
+Home,Office Chair,1954647.08,15
+Home,Wall Clock,1901942.79,16
+Home,Bedsheet Set,1824683.54,17
+Home,Cookware Set,1558325.2,18
+Home,Storage Box,1542908.37,19
+Home,Table Lamp,1288195.97,20

@@ -1,0 +1,81 @@
+product_id,product_name,category,subcategory,cost_price
+P0001,Wireless Headphones,Electronics,Accessories,22903.31
+P0002,Wireless Headphones,Electronics,Accessories,16789.08
+P0003,Smartphone,Electronics,Laptops,26493.5
+P0004,Smartphone,Electronics,Audio,11342.69
+P0005,Laptop,Electronics,Mobiles,31791.6
+P0006,Laptop,Electronics,Mobiles,22882.61
+P0007,Bluetooth Speaker,Electronics,Laptops,18800.06
+P0008,Bluetooth Speaker,Electronics,Mobiles,31976.06
+P0009,Usb-C Cable,Electronics,Laptops,14713.29
+P0010,Usb-C Cable,Electronics,Laptops,32697.2
+P0011,Mechanical Keyboard,Electronics,Mobiles,34901.44
+P0012,Mechanical Keyboard,Electronics,Accessories,27610.43
+P0013,Smart Watch,Electronics,Laptops,32790.81
+P0014,Smart Watch,Electronics,Audio,30704.5
+P0015,Power Bank,Electronics,Mobiles,10548.97
+P0016,Power Bank,Electronics,Mobiles,32506.65
+P0017,Webcam,Electronics,Audio,10066.97
+P0018,Webcam,Electronics,Accessories,31140.71
+P0019,Mouse,Electronics,Laptops,29809.43
+P0020,Mouse,Electronics,Accessories,9658.37
+P0021,Cotton Shirt,Clothing,Men,3407.24
+P0022,Cotton Shirt,Clothing,Accessories,6535.61
+P0023,Denim Jeans,Clothing,Women,288.73
+P0024,Denim Jeans,Clothing,Footwear,7939.06
+P0025,Running Shoes,Clothing,Women,1878.62
+P0026,Running Shoes,Clothing,Accessories,8295.85
+P0027,Hoodie,Clothing,Footwear,1004.37
+P0028,Hoodie,Clothing,Men,1970.09
+P0029,Jacket,Clothing,Women,4852.92
+P0030,Jacket,Clothing,Women,217.28
+P0031,Casual Trousers,Clothing,Accessories,2469.88
+P0032,Casual Trousers,Clothing,Footwear,9547.24
+P0033,Sneakers,Clothing,Footwear,5887.24
+P0034,Sneakers,Clothing,Men,2726.3
+P0035,Backpack,Clothing,Footwear,6973.77
+P0036,Backpack,Clothing,Men,6727.69
+P0037,Socks,Clothing,Accessories,3172.04
+P0038,Socks,Clothing,Accessories,6907.83
+P0039,Cap,Clothing,Footwear,6949.36
+P0040,Cap,Clothing,Footwear,3770.31
+P0041,Coffee Maker,Home,Furniture,2308.42
+P0042,Coffee Maker,Home,Furniture,4860.09
+P0043,Table Lamp,Home,Appliances,7515.19
+P0044,Table Lamp,Home,Decor,4246.08
+P0045,Office Chair,Home,Appliances,7609.9
+P0046,Office Chair,Home,Furniture,7654.32
+P0047,Bedsheet Set,Home,Kitchen,5326.24
+P0048,Bedsheet Set,Home,Decor,919.31
+P0049,Storage Box,Home,Kitchen,758.32
+P0050,Storage Box,Home,Furniture,5791.11
+P0051,Water Bottle,Home,Furniture,1770.69
+P0052,Water Bottle,Home,Appliances,1294.96
+P0053,Cookware Set,Home,Furniture,7211.64
+P0054,Cookware Set,Home,Appliances,1045.78
+P0055,Wall Clock,Home,Appliances,8115.62
+P0056,Wall Clock,Home,Appliances,1449.65
+P0057,Cushion Set,Home,Appliances,4649.46
+P0058,Cushion Set,Home,Kitchen,5654.15
+P0059,Vacuum Cleaner,Home,Decor,7274.31
+P0060,Vacuum Cleaner,Home,Appliances,2656.4
+P0061,Python Programming,Books,Fiction,7496.17
+P0062,Python Programming,Books,Fiction,596.1
+P0063,Data Engineering,Books,Education,7048.79
+P0064,Data Engineering,Books,Fiction,9355.64
+P0065,Machine Learning Basics,Books,Fiction,9863.45
+P0066,Machine Learning Basics,Books,Technology,462.59
+P0067,Sql Handbook,Books,Technology,1922.82
+P0068,Sql Handbook,Books,Non-Fiction,7693.4
+P0069,Cloud Computing,Books,Technology,3838.44
+P0070,Cloud Computing,Books,Technology,4568.09
+P0071,Artificial Intelligence,Books,Technology,3850.11
+P0072,Artificial Intelligence,Books,Non-Fiction,6587.31
+P0073,Clean Code,Books,Education,1318.54
+P0074,Clean Code,Books,Technology,5359.1
+P0075,Statistics Guide,Books,Non-Fiction,8372.99
+P0076,Statistics Guide,Books,Fiction,9788.13
+P0077,Web Development,Books,Technology,6783.97
+P0078,Web Development,Books,Technology,5389.55
+P0079,Database Systems,Books,Non-Fiction,2587.99
+P0080,Database Systems,Books,Education,1677.95
